@@ -1,0 +1,596 @@
+tstest He Ste Wer—(TA)04/0007/2003—20 REGISTERED NO. DL—(N)04/0007/2003—20
+
+ 
+
+JRNd a Ista
+The Gazette of Gudia
+
+Haft. -S1.Vel.-3.-28092020-222064
+CG-DL-E-28092020-222064
+
+TAIN
+EXTRAORDINARY
+a7 I[— as 1
+PART II — Section 1
+wife a venriera
+PUBLISHED BY AUTHORITY
+
+ 
+
+ 
+
+We 55] as fees, daar, faa 28, 2020/aTf 6, 1942 (TH)
+No. 58] | NEW DELHI, MONDAY, SEPTEMBER 28, 2020/ASVINA 6, 1942 (SAKA)
+
+ 
+
+ 
+
+3a am a fir oss Get ct ore 3 fared fee ae eT Gao S wT tal a ae |
+
+Separate paging is given to this Part in order that it may be filed as a separate compilation.
+
+ 
+
+ 
+
+MINISTRY OF LAW AND JUSTICE
+(Legislative Department)
+
+New Delhi, the 28th September, 2020/Asvina 6, 1942 (Saka)
+
+The following Act of Parliament received the assent of the President on the
+28th September, 2020 and is hereby published for general information: —
+
+THE BILATERAL NETTING OF QUALIFIED FINANCIAL
+CONTRACTS ACT, 2020
+
+No. 30 oF 2020
+[28th September, 2020.]
+
+An Act to ensure financial stability and promote competitiveness in Indian financial
+markets by providing enforceability of bilateral netting of qualified financial
+contracts and for matters connected therewith or incidental thereto.
+
+BE it enacted by Parliament in the Seventy-first Year of the Republic of India as
+follows:—
+
+CHAPTER I
+PRELIMINARY
+
+1. (J) This Act may be called the Bilateral Netting of Qualified Financial Contracts
+Act, 2020.
+
+(2)It shall come into force on such date as the Central Government may, by notification
+in the Official Gazette, appoint, and different dates may be appointed for different provisions
+of this Act.
+
+Short title and
+commencement.
+Definitions.
+
+THE GAZETTE OF INDIA EXTRAORDINARY [Part T—
+
+ 
+
+ 
+
+2. (/) In this Act, unless the context otherwise requires,—
+
+(a) "administration" means proceedings of the nature of placing under
+administration and includes imposition of moratorium, reorganisation, winding up,
+liquidation (including any compulsory winding up procedure or proceeding), insolvency,
+bankruptcy, composition with creditors, receivership, conservatorship or any
+proceedings of nature similar to or resulting in any of the foregoing, initiated or
+commenced under any law for the time being in force, against a qualified financial
+market participant;
+
+(6) "administration practitioner" means the liquidator, receiver, trustee,
+conservator, resolution professional or any other person or entity, by whatever name
+called, which administers the affairs of a party subject to administration under any law
+for the time being in force;
+
+(c) "authority" means the Central Government or any of the regulatory authorities
+as specified in the First Schedule;
+
+(d) "banking institution" means,—
+
+(i) scheduled bank as defined in clause (e) of section 2 of the Reserve
+Bank of India Act, 1934; and
+
+(i) any other bank as the Reserve Bank of India may specify;
+
+(e) "close-out netting" means a process involving termination of obligations
+under a qualified financial contract with a party in default and subsequent combining
+of positive and negative replacement values into a single net payable or receivable as
+set out in section 6;
+
+(f) "collateral" means,—
+
+(i) money, in the form of cash, credited to an account in any currency, ora
+similar claim for repayment of money, such as a money market deposit;
+
+(i) securities of any kind, including debt and equity securities;
+(iii) guarantees, letters of credit and obligations to reimburse; and
+
+(iv) any asset commonly used as collateral under any law for the time
+being in force;
+
+(g)" collateral arrangement" means any margin, collateral or security arrangement
+or other credit enhancement related to or forming part of a netting agreement or one or
+more qualified financial contracts to which a netting agreement applies, and includes, —
+
+(i) a pledge or any other form of security interest in collateral, whether
+possessory or non-possessory;
+
+(i) a title transfer collateral arrangement; and
+
+(iii) any guarantee, letter of credit or reimbursement obligation by or to a
+party to one or more qualified financial contracts, in respect of those qualified
+financial contracts; or a netting agreement;
+
+(fA) "insolvent party" means the party to a qualified financial contract in relation
+to which insolvency, winding up, liquidation, resolution, administration or similar
+proceedings have been instituted under any law for the time being in force in India or
+under the laws of any other country, including of its incorporation;
+
+(é) "margin" means the amount, form and type of collateral required as a
+performance bond for the purchase, sale or carrying of a qualified financial contract
+and includes—
+
+(A) initial margin which protects the transacting parties from potential
+future exposure likely to arise from future changes in the mark-to-market
+value of the qualified financial contract during the close-out and replace
+the position in the event of counterparty default, and
+
+2 of 1934.
+41 of 1999.
+
+23 of 2013.
+
+50 of 2019.
+
+2 of 1934.
+4 of 1938.
+
+10 of 1949.
+42 of 1956.
+
+Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3
+
+ 
+
+ 
+
+(B) variation margin which protects the transacting parties from the
+current exposure that has already been incurred by one of the parties from
+changes in the mark-to-market value of the qualified financial contract
+after the transaction has been executed;
+
+(/) "netting" means determination of net claim or obligations after setting off or
+adjusting all the claims or obligations based or arising from mutual dealings between
+the parties to qualified financial contracts and includes close-out netting;
+
+(k) "netting agreement" means an agreement that provides for netting, and
+includes,—
+
+(i) an agreement that provides for the netting of amounts due under two or
+more netting agreements; and
+
+(ii) a collateral arrangement relating to or forming part of a netting
+agreement;
+
+(4 "non-insolvent party" means the party to a qualified financial contract that is
+not the insolvent party;
+
+(m) “notification” means a notification published in the Official Gazette and the
+term "notify" shall be construed accordingly;
+
+(7) "qualified financial contract" means a qualified financial contract notified by
+the authority under clause (a) of section 4;
+
+(o) "qualified financial market participant" includes,—
+
+(i) a banking institution, or a non-banking financial company, or such
+other financial institution which is subject to regulation or prudential supervision
+by the Reserve Bank of India;
+
+(i) an individual, partnership firm, company, or any other person or body
+corporate whether incorporated under any law for the time being in force in India
+or under the laws of any other country and includes any international or regional
+development bank or other international or regional organisation;
+
+(iii) an insurance or reinsurance company which is subject to regulation
+or prudential supervision by the Insurance Regulatory and Development
+Authority of India established under the Insurance Regulatory and Development
+Authority Act, 1999;
+
+(iv) a pension fund regulated by the Pension Fund Regulatory and
+Development Authority established under the Pension Fund Regulatory and
+Development Authority Act, 2013;
+
+(v) a financial institution regulated by the International Financial Services
+Centres Authority established under the International Financial Services Centres
+Authority Act, 2019; and
+
+(vi) any other entity notified by the relevant authority under clause (6) of
+section 4;
+
+(p) "Schedule" means the First Schedule or the Second Schedule to this Act;
+
+(q) "title transfer collateral arrangement" means a margin, collateral or security
+arrangement related to a netting agreement based on the transfer of title to collateral,
+whether by outright sale or by way of security, including a sale and repurchase agreement,
+securities lending agreement, securities, buy or sell-back agreement or an irregular
+pledge.
+
+(2) Words and expressions used but not defined in this Act and defined in
+
+the Reserve Bank of India Act, 1934, the Insurance Act, 1938, the Banking Regulation
+Act,1949, the Securities Contracts (Regulation) Act, 1956, the Banking Companies (Acquisition
+Applicability
+of Act.
+
+Powers of
+authority.
+
+Enforceability
+of netting.
+
+4 THE GAZETTE OF INDIA EXTRAORDINARY [Part T—
+
+ 
+
+ 
+
+and Transfer of Undertakings) Act, 1970, the Banking Companies (Acquisition and Transfer
+of Undertakings) Act, 1980, the Securities and Exchange Board of India Act, 1992, the Foreign
+Exchange Management Act,1999, the Insurance Regulatory and Development Authority
+Act, 1999, the Payment and Settlement Systems Act, 2007, the Companies Act, 2013, the
+Pension Fund Regulatory and Development Authority Act, 2013 and the Insolvency and
+Bankruptcy Code, 2016, shall have the meanings respectively assigned to them in those
+enactments.
+
+CHAPTERII
+APPLICATION OF ACT
+
+3. The provisions of this Act shall apply to a qualified financial contract entered into
+on a bilateral basis between qualified financial market participants, either under a netting
+agreement or otherwise, where at least one of such participants shall be an entity regulated
+by an authority specified in the First Schedule.
+
+4. The relevant authority may, by notification,—
+
+(a) designate any bilateral agreement or contract or transaction, or type of contract
+regulated by it, as qualified financial contract:
+
+Provided that the contract, so designated under this clause, shall not include
+any contract,—
+
+(i) entered into between such parties and on such terms as the Central
+Government may, by notification, specify; or
+
+(i) entered into on multilateral basis in accordance with the provisions of
+the Securities Contracts (Regulation) Act, 1956 and the Payment and Settlement
+Systems Act, 2007;
+
+(b) specify any entity regulated by it, as a qualified financial market participant
+to deal in qualified financial contracts.
+
+5. (/) Netting of the qualified financial contract shall be enforceable—
+
+(a) where such contract is entered into with a netting agreement, in accordance
+with the terms of the netting agreement:
+
+Provided that the inclusion of any non-qualified financial contract in a netting
+agreement shall not invalidate the enforceability of netting of qualified financial contract
+under such agreement; or
+
+(6) where such contract is entered into without a netting agreement, in accordance
+with the provisions of section 6.
+
+(2) A qualified financial contract shall not be void and shall be deemed never to have
+been void or unenforceable by reason of any law for the time being in force.
+
+(3) Close-out netting of a qualified financial contract shall be enforceable against an
+insolvent party, and, wherever applicable, against a guarantor or other person providing
+collateral or security for a party and shall not be affected or stopped or otherwise limited
+by:—
+
+(4) the appointment of, or any application for the appointment of, an administration
+practitioner, or
+
+(i) applicability of any provision of law relating to administration, or
+(iii) any other provision of law that may be applicable to an insolvent party.
+
+(4) Where a qualified financial market participant is subject to administration, then
+notwithstanding,—
+
+(4) any stay, injunction, avoidance, moratorium or similar proceedings or any
+other order of a court, tribunal or authority, or
+
+5 of 1970.
+40 of 1980.
+15 of 1992.
+42 of 1999.
+41 of 1999.
+51 of 2007.
+18 of 2013.
+23 of 2013.
+31 of 2016.
+
+42 of 1956.
+51 of 2007.
+Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5
+
+ 
+
+ 
+
+(i) any order of adjudication or dissolution or winding up or resolution or
+insolvency, or
+
+(iii) any rule, regulation, scheme, direction, guideline, circular or order,
+
+made or issued under any law for the time being in force, close-out netting shall be applicable
+and nothing contained therein shall affect the validity of close-out netting under this Act.
+
+(5) The amount payable or other claims to be made in accordance with the close-out
+netting under this Act shall be final, irrevocable and binding upon the parties to a qualified
+financial contract and upon the administration practitioner, of the party in administration.
+
+CHAPTER III
+INVOCATION OF CLOSE-OUT NETTING
+
+6. (1) Close-out netting may be commenced by a notice given by one party to the other
+party of a qualified financial contract upon the occurrence of an event of default with respect
+to the other party or a termination event that may, in certain circumstances, occur automatically
+as specified in the netting agreement:
+
+Provided that where any one of the parties to a netting agreement is subject to
+administration, then no prior notice to or consent of the party in insolvency, winding up,
+liquidation, administration or resolution proceeding, or to the administration practitioner of
+such proceeding, shall be required.
+
+Explanation —F¥ or the purposes of this sub-section, —
+
+(é) "event of default" means failure to pay or deliver or honour the obligations of
+a qualified financial contract, or bankruptcy, or any other event as may be agreed upon
+by the parties in the agreement; and
+
+(i) "termination event" means the occurrence of any event mentioned in the
+netting agreement which gives one or both parties the right to terminate relevant
+transactions under that agreement.
+
+(2) The parties to a qualified financial contract shall ensure that all obligations owed
+by one party to another party under a qualified financial contract are reduced to or replaced
+with single net amount which has the following effect, namely: —
+
+(a) the termination, liquidation or acceleration of any present or future payment
+or delivery rights or obligations arising under or in connection with any one or more
+qualified financial contracts to which a netting agreement applies;
+
+(6) the calculation or estimation of a close-out value, market value, liquidation
+value or replacement value in respect of each right and obligation or group of rights
+and obligations terminated, liquidated or accelerated under clause (a) and the
+conversion of each such value into a single currency; and
+
+(c) the determination of the net balance of the values calculated under clause (5),
+whether by operation of set-off or otherwise, giving rise to the obligation of one party
+to pay an amount equal to the net balance to the other party.
+
+(3) Without prejudice to the provisions of any law for the time being in force requiring
+the realisation, appropriation or liquidation of collateral, and unless otherwise agreed by the
+parties, the realisation, appropriation or liquidation of collateral under a collateral arrangement
+shall take effect without any requirement of prior notice to, or consent from, any party,
+person or entity.
+
+(4) Close-out netting shall be applicable to all qualified financial market participants
+who are parties to a qualified financial contract notwithstanding anything to the contrary
+contained in any law specified in the Second Schedule or any other law pursuant to
+which any qualified financial market participant has been incorporated, constituted or is
+regulated.
+
+Invocation of
+close-out
+netting.
+Net amount.
+
+Limitations
+on powers of
+administration
+practitioner.
+
+Power to
+amend
+Schedules.
+
+Provisions of
+this Act to
+override other
+laws.
+
+Power to
+remove
+difficulties.
+
+6 THE GAZETTE OF INDIA EXTRAORDINARY [Part T—
+
+ 
+
+ 
+
+7. (1) Where parties to the qualified financial contract enter into a netting agreement,
+the net amount payable under the close-out netting shall be determined in accordance with
+the terms of the netting agreement entered into by the parties.
+
+(2) In the absence of the netting agreement, where the parties to a qualified financial
+contract fail to agree on the sum with regard to the net amount payable under the close-out
+netting, such sum shall be determined through arbitration.
+
+CHAPTERIV
+LIMITATIONS ON POWERS OF ADMINISTRATION PRACTITIONER
+8. The administration practitioner shall not render or seek to render ineffective,—
+
+(a) any transfer, substitution or exchange of cash, collateral or any other interests
+under or in connection with a netting agreement between the insolvent party and the
+non-insolvent party to a qualified financial contract; or
+
+(6) any payment or delivery obligation incurred by the insolvent party and
+owing to the non-insolvent party under or in connection with a netting agreement on
+the grounds of it constituting a preference including a fraudulent preference or a
+transfer for undervalue, including during a suspect period by the insolvent party to
+the non-insolvent party.
+
+Explanation —For the purposes of this clause, "suspect period" means the
+relevant period referred to in sub-section (4) of section 43 of the Insolvency and
+Bankruptcy Code, 2016 in respect of "preferential transaction" and in sub-section (/)
+of section 46 of the said Code in respect of "undervalued transaction".
+
+CHAPTER V
+MISCELLANEOUS
+
+9. (1) If the Central Government is satisfied that it is necessary or expedient so to do,
+it may, by notification, add to or otherwise amend the First Schedule or the Second Schedule
+and thereupon, the First Schedule or the Second Schedule, as the case may be, shall be
+deemed to have been amended accordingly.
+
+(2) Every notification issued under sub-section (/) shall be laid, as soon as may be
+after it is issued, before each House of Parliament while it is in session, for a total period of
+thirty days which may be comprised in one session or in two or more successive sessions,
+and if, before the expiry of the session immediately following the session or the successive
+sessions aforesaid, both Houses agree in making any modification in the notification or both
+Houses agree that the notification should not be issued, the notification shall thereafter
+have effect only in such modified form or be of no effect, as the case may be; so, however,
+that any such modification or annulment shall be without prejudice to the validity of anything
+previously done under that notification.
+
+10. The provisions of this Act shall have effect, notwithstanding anything inconsistent
+therewith contained in any other law for the time being in force or any instrument having
+effect by virtue of any such law.
+
+11. (/) If any difficulty arises in giving effect to the provisions of this Act, the Central
+Government may, by order, published in the Official Gazette, make such provisions not
+inconsistent with the provisions of this Act as may appear to it to be necessary or expedient
+for removing the difficulty:
+
+Provided that no order shall be made after the expiry of a period of three years from the
+date of commencement of this Act.
+
+(2) Every order made under this section shall be laid, as soon as may be after it is made,
+before each House of Parliament.
+
+31 of 2016.
+Sec. 1]
+
+THE GAZETTE OF INDIA EXTRAORDINARY
+
+ 
+
+ 
+
+THE FIRST SCHEDULE
+[See sections 2(/) (c), (p) and 9(/)]
+
+ 
+
+SL No.
+
+Name of the authority
+
+Act No.
+
+ 
+
+@
+
+2)
+
+GB)
+
+ 
+
+The Reserve Bank of India, established under section 3 of the
+Reserve Bank of India Act, 1934.
+
+The Securities and Exchange Board of India, established under
+section 3 of the Securities and Exchange Board of India
+Act, 1992.
+
+The Insurance Regulatory and Development Authority of
+India, established under section 3 of the Insurance Regulatory
+and Development Authority Act, 1999.
+
+The Pension Fund Regulatory and Development Authority,
+established under section 3 of the Pension Fund Regulatory
+and Development Authority Act, 2013.
+
+The International Financial Services Centres Authority
+established under section 4 of the International Financial
+Services Centres Authority Act, 2019.
+
+2 of 1934.
+
+15 of 1992.
+
+Al of 1999.
+
+23 of 2013.
+
+50 of 2019.
+
+ 
+THE GAZETTE OF INDIA EXTRAORDINARY
+
+[Parr II—Sec. 1]
+
+ 
+
+ 
+
+THE SECOND SCHEDULE
+[See sections 6(4) and 9(/)]
+
+ 
+
+ 
+
+ 
+
+SL No. Name of the enactment Act No.
+() (2) 6)
+1. The Reserve Bank of India Act, 1934. 2 of 1934.
+2. The Insurance Act, 1938. 4 of 1938.
+3. The Banking Regulation Act, 1949. 10 of 1949.
+4. The State Bank of India Act, 1955. 23 of 1955.
+5. The Securities Contracts (Regulation) Act, 1956. 42 of 1956.
+6. The Banking Companies (Acquisition and Transfer of Undertakings)
+Act, 1970. 5 of 1970.
+7. The Regional Rural Bank Act, 1976. 21 of 1976.
+8. The Banking Companies (Acquisition and Transfer of Undertakings)
+Act, 1980. AO of 1980.
+9. The Securities and Exchange Board of India Act, 1992. 15 of 1992.
+10. The Foreign Exchange Management Act,1999. 42 of 1999.
+11. The Insurance Regulatory and Development Authority Act, 1999. 41 of 1999.
+12. The Payment and Settlement Systems Act, 2007. 51 of 2007.
+13. The Companies Act, 2013. 18 of 2013.
+14. The Pension Fund Regulatory and Development Authority 23 of 2013.
+Act, 2013.
+15. The Insolvency and Bankruptcy Code, 2016. 31 of 2016.
+
+ 
+
+DR. G. NARAYANA RAJU,
+Secretary to the Govt. of India.
+
+ 
+
+UPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI-110002
+AND PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI-110054.
+
+MGIPMRND—867GI—28-09-2020.
+
+  
+
+NGARAI
+

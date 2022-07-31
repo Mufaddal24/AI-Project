@@ -1,0 +1,344 @@
+Title: Terms and Definitions
+
+Content: (1) “Authorized Representative” shall mean any person authorized by either of the parties. (2) “Bidder” means any firm offering the solution(s), service(s) and/or materials required in the RFP. The word Bidder when used in the pre award period shall be synonymous with Bidder, and when used after award of the Contract shall mean the successful Bidder or Vendor with whom Government of <__> signs the agreement for rendering of services for SWAN. (3) “BOOT model” means Build Own Operate and Transfer(BOOT) model. (4) “Contract” is used synonymously with Agreement. (5) “Default Notice” shall mean the written notice of Default of the Agreement issued by one Party to the other in terms hereof. (6) “Final Acceptance Test(FAT)” means the acceptance testing of the network including equipment at SHQ, all DHQs, all SDHQs/ BLOCKs and all co-located & remote offices. (7) “Fraudulent Practice” means a misrepresentation of facts in order to influence a procurement process or the execution of a Contract and includes collusive practice among Bidders(prior to or after Bid submission) designed to establish Bid prices at artificial non-competitive levels and to deprive the Government of Andhra Pradesh of the benefits of free and open competition. (8) “GoI” shall stand for the Government of India. (9) “Go<state>” shall stand for the Government of <____>. (10) “Implementation Period” shall mean the period from the date of signing of the Agreement and up to the completion of time period of contract. (11) “ITIL” means Information Technology Infrastructure Library (ITIL). (12) "Law" shall mean any Act, notification, bye law, rules and regulations, directive, ordinance, order or instruction having the force of law enacted or issued by the Central Government and/ or the Government of <state> or any other Government or regulatory authority or political subdivision of government agency. (13) “LOI” means issuing of Letter of Intent which shall constitute the intention of the Tenderer to place the Purchase Order with the successful bidder. (14) “Partial Acceptance Test (PAT)” means the provisional acceptance testing of SHQ and all DHQs. (15) "Party" means Government of <state> or Bidder, individually and “Parties” mean Government of <<State> and Bidder, collectively. (16) “PoP” refers to Point of Presence with respect to SWAN setup in State. (17) “Remote Office” means the office located at a distance of more than 1Km from the respective Centre. (18) “Request for Proposal (RFP)”, means this detailed notification seeking a set of solution(s), services(s), materials and/or any combination of them. (19) “Requirements” shall mean and include schedules, details, description, statement of technical data, performance characteristics, standards(Indian as well as International) as applicable and specified in the RFP. (20) "Service" means provision of Contracted service as per this RFP. (21) “Site” shall mean the location(s) for which the Contract has been issued and where the service shall be provided as per agreement. (22) “State” shall mean the state of <State name>. (23) “SWAN” shall mean State Wide Area Network. (24) "Third Party Agency" means the successful bidder, appointed by Government of <state> for monitoring the SWAN during commissioning and operation. (25) “Termination Notice” means the written notice of termination of the Agreement issued by one Party to the other in terms hereof.
+
+Question: What is the Authorized Representative?
+Answer: “Authorized Representative” shall mean any person authorized by either of the parties. 
+
+Question: Who is the “Bidder”?
+Answer: “Bidder” any firm offering the solution(s), service(s) and/or materials required in the RFP. 
+
+Question: What is the Full Form of BOOT model?
+Answer: Build Own Operate and Transfer
+
+Question: What are synonyms Contract?
+Answer: “Contract” is used synonymously with Agreement. 
+
+Question: How do you use Contracts?
+Answer: “Contract” is used synonymously with Agreement.
+
+Question: What is default Notice in an agreements?
+Answer: “Default Notice” shall mean the written notice of Default of the Agreement issued by one Party to the other in terms hereof. 
+
+Question: What is FAT? 
+Answer: “Final Acceptance Test(FAT)” means the acceptance testing of the network including equipment at SHQ, all DHQs, all SDHQs/ BLOCKs and all co-located & remote offices. 
+
+Question: What Means of Fraudulent Practice?
+Answer: “Fraudulent Practice” means a misrepresentation of facts in order to influence a procurement process or the execution of a Contract and includes collusive practice among Bidders(prior to or after Bid submission) designed to establish Bid prices at artificial non-competitive levels and to deprive the Government of Andhra Pradesh of the benefits of free and open competition. 
+
+Question: What is the full form of GOI?
+Answer: Government of India.
+
+Question: State Name?
+Answer: “Go<state>” shall stand for the Government of <____>. 
+
+Question: What is implementation period?
+Answer: “Implementation Period” shall mean the period from the date of signing of the Agreement and up to the completion of time period of contract.  
+           
+Question: What is the full form of ITIL?
+Answer: Information Technology Infrastructure Library
+
+Question: What is a law?
+Answer: "Law" shall mean any Act, notification, bye law, rules and regulations, directive, ordinance, order or instruction having the force of law enacted or issued by the Central Government and/ or the Government of <state> or any other Government or regulatory authority or political subdivision of government agency. 
+
+Question: What does a letter of intent contain?
+Answer: "LOI" means issuing of Letter of Intent which shall constitute the intention of the Tenderer to place the Purchase Order with the successful bidder. 
+
+Question: What is PAT?
+Answer: Partial Acceptance Test
+
+Question: What is the Party?
+Answer: "Party" means Government of <state> or Bidder, individually 
+
+Question: What is the full form of POP? 
+Answer: “PoP” refers to Point of Presence  
+
+Question: What is remote office?
+Answer: “Remote Office” means the office located at a distance of more than 1Km from the respective Centre. 
+
+Question: What is the RFP?
+Answer: “Request for Proposal(RFP)”, means this detailed notification seeking a set of solution(s), services(s), materials and/or any combination of them.
+
+Question: What are requirements?	
+Answer: “Requirements” shall mean and include schedules, details, description, statement of technical data, performance characteristics, standards(Indian as well as International) as applicable and specified in the RFP.
+
+Question: what is means service?
+Answer: "Service" means provision of Contracted service as per this RFP. 
+
+Question: what is the site?
+Answer: “Site” shall mean the location(s) for which the Contract has been issued and where the service shall be provided as per agreement. 
+
+Question: Which state name?
+Answer: “State” shall mean the state of <State name>.
+
+Question: What is a third party agency?
+Answer: "Third Party Agency" means the successful bidder, appointed by Government of <state> for monitoring the SWAN during commissioning and operation. 
+
+Question: What is the termination Notice?
+Answer: “Termination Notice” means the written notice of termination of the Agreement issued by one Party to the other in terms hereof.
+
+
+
+Title: About SWAN Scheme
+
+Content: The National e-Governance Plan (NEGP) of Government of India has a clear focus on improving delivery of government services to citizens, e-Governance is noted to play a very active role in this endeavor. NEGP recognizes that creation of basic IT and service delivery infrastructure by the States is essential for effective and cost efficient deployment of eGovernance, with this view, NeGP recognizes to undertake three core projects of State Wide Area Network (SWAN), State Data Centre (SDC) and Citizen Service Center (CSC) are being established in every State. Department of Information Technology, Government of India is providing support for these projects to the state. SWAN (State Wide Area Network) is envisaged as the converged backbone network for data, voice and video communications throughout the State/UT and is expected to cater to the information communication requirements of all the departments. Key focus of the SWAN project is on high service delivery. As per SWAN policy, all States/UTs are implementing SWAN under two Options. Under the first Option, the State is to select a suitable Public Private Partnership (PPP) model and get the SWAN commissioned and operated for 5 years by a private Network Operator. In the second Option, the SWAN for the States/UTs would be set up and operated for 5 years by the National Informatics Centre (NIC). In either of the Options a Third Party Auditor (TPA) is required.
+
+Question: What is swan under National E-Governance?
+Answer: SWAN stands for State Wide Area Network and is among the core infrastructure development programs operating under the National e-Governance Plan of the Government of India.
+
+
+
+Title: Third Party Auditor (TPA)
+
+Content: TPA is required to provide dedicated Man power for entire contract period with a State/UT. It is expected at least one person need to be deployed at the SHQ location and further a team shall be required to undertake the site visits as per the requirements of the RFP. Arranging access to NMS and related systems shall be the State/UT’s responsibility. Further, the State/UT shall provide office space at the SHQ location with facilities like furniture, power connection, telephone/fax connection etc. The equipment for TPA’s team (like laptop/workstation, printer etc.) shall be TPA’s responsibility.All the PoP equipment as per DIT’s SWAN Scheme shall be under purview of this TPA contract. The details list of the same shall be provided. For any additional equipment to be monitored within the existing PoPs, the TPA charges shall be as per mutual agreement between the state and TPA. For additional locations, the per PoP charges shall apply.
+
+Question: What is TPA in compliance?
+Answer: TPA is required to provide dedicated Man power for entire contract period with a State/UT. It is expected at least one person need to be deployed at the SHQ location and further a team shall be required to undertake the site visits as per the requirements of the RFP.
+
+
+
+Title: TPA Scope of Work 
+
+Content: Third Party Audit shall include monitoring the performance of the SWAN with a view to ensure desired Quality of Service (QoS) by the Network Operator and bandwidth service provider, as defined in the respective SLA’s, signed between the State/UT Government, and Bandwidth Service Provider, Network Operator. These Guidelines define the broad areas of work, which TPA shall perform for a period of five years from the date of final acceptance test of the network. However, the TPA shall be appointed immediately, preferably before the acceptance testing and commissioning of the SWAN.
+
+Question: What is the role of a TPA?
+Answer: Third Party Audit shall include monitoring the performance of the SWAN with a view to ensure desired Quality of Service (QoS) by the Network Operator and bandwidth service provider, as defined in the respective SLA’s, signed between the State/UT Government, and Bandwidth Service Provider, Network Operator.
+
+
+
+Title: Acceptance Test (PAT, FAT) 
+
+Content: a. TPA shall review the detailed acceptance test plan (PAT and FAT) in consultation with the State/UT after taking into account any comments/suggestions of the DIT. b. TPA would also conduct audit of the process, plan and results of the Acceptance Test carried out by the Network Operator. TPA would issue certification of completion for PoPs, for which TPA shall verify availability of all the defined services as per the contract signed between SWAN operator and State government. The SWAN operator shall be required to demonstrate all the services/features/functionalities as mentioned in the agreement
+
+Question: What is FAT and PAT?  
+Answer: a. TPA shall review the detailed acceptance test plan (PAT and FAT) in consultation with the State/UT after taking into account any comments/suggestions of the DIT. b. TPA would also conduct audit of the process, plan and results of the Acceptance Test carried out by the Network Operator. TPA would issue certification of completion for PoPs, for which TPA shall verify availability of all the defined services as per the contract signed between SWAN operator and State government. The SWAN operator shall be required to demonstrate all the services/features/functionalities as mentioned in the agreement. 
+
+
+
+Title: Inventory
+
+Content: a. TPA audit would include verification of completeness of bill of material for each PoP. b. TPA audit would include review that all hardware and software items have been installed at the sites as per the contract. c. TPA audit would include maintenance of an inventory register to have PoP wise equipment list, including hardware and software. TPA audit would also include updating inventory registry in event of any changes in the inventory. Inventory Audit is to be performed annually and the relevant changes in the year of the audit shall be recorded. Inventory Details shall be provided by the State and TPA shall maintain a record at its end, which shall be updated by TPA based on information provided by the State. Also, the verification will be done through tools and through site visits as explained in RFP.
+
+Question: What should I ask about inventory?
+Answer: a. TPA audit would include verification of completeness of bill of material for each PoP. b. TPA audit would include review that all hardware and software items have been installed at the sites as per the contract. c. TPA audit would include maintenance of an inventory register to have PoP wise equipment list, including hardware and software.
+
+
+
+Title: SLA Monitoring Audit 
+
+Content: SLA monitoring would include audit of the performance of network. Network includes the components provided and operated by the network operator and bandwidth provisioned by the bandwidth service provider. Subsequently, TPA would carry out the following tasks: a. TPA audit would include preparation of templates for reports to be submitted by SWAN operator to TPA / State and report to be submitted by the TPA to the State. TPA shall also tabulate measurable parameters as defined in the respective SLAs with the SWAN operator and bandwidth service provider. b. TPA shall review the configuration/deployment parameters of the NMS and the process followed to ensure that the reports generated are authentic. c. TPA would proactively convey to the stakeholders any concerns based on the information generated using NMS. d. TPA would provide quarterly certification of network availability and perform penalty computation for the calculation of QGR to be paid to the SWAN operator as per the SLA and payment conditions mentioned in the agreement between SWAN operator and the State/UT(on Quarterly basis). e. TPA would also undertake proactive monitoring of the links provided by the bandwidth service provider based on the SLA signed by the bandwidth service provider. The Agency shall submit reports on the same to the government who would use these reports for making the payments to the bandwidth service provider. f. TPA audit would also include site inspection to verify those parameters of the SLA, which cannot be monitored using NMS. These site visits would be done for atleast 5% of the sites (at each network tier) per quarter.
+
+Question: What is SLA audit?
+Answer: SLA monitoring would include audit of the performance of network. Network includes the components provided and operated by the network operator and bandwidth provisioned by the bandwidth service provider.
+
+
+
+Title: Usage Audit
+
+Content: a. TPA would appraise the State/UT about the health of the network through reports indicating the bandwidth utilization, scalability requirements as per the current and envisaged State level applications etc. b. Only the overall Recommendation for Expansion is covered under the purview of this contract. For detailed activities like designing, BoM, specifications etc. the State/UT is expected to engage the concerned Agency separately. 
+
+Question: What is audit usage?
+Answer: a. TPA would appraise the State/UT about the health of the network through reports indicating the bandwidth utilization, scalability requirements as per the current and envisaged State level applications etc. b. Only the overall Recommendation for Expansion is covered under the purview of this contract. For detailed activities like designing, BoM, specifications etc. the State/UT is expected to engage the concerned Agency separately.
+
+
+
+Title: GUIDELINES FOR CENTRAL ASSISTANCE for COMMAND AREA DEVELOPMENT WORKS in PRIORITIZED AIBP FUNDED IRRIGATION PROJECTS
+
+Content: A large number of irrigation projects taken up under the Accelerated Irrigation Benefit Program (AIBP) after its launch in 1996-97 were languishing due to inadequate provision of funds. During 2015-16, Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched with aims of enhancing physical access of water on farm and expanding cultivable area under assured irrigation, improving on- farm water use efficiency, introducing sustainable water conservation practices etc. Under this scheme, 99 ongoing AIBP funded irrigation projects – with total irrigation potential of 76 lakh hectare – have now been identified for prioritized implementation in a mission mode along with their Command Area Development (CAD) works. The list of 99 prioritized projects is given as Annexure-I. The Central Assistance (CA) for CAD works of these 99 projects will be funded through the ongoing Command Area Development & Water Management (CADWM) Program covered under the PMKSY Har Khet Ko Pani (HKKP) component.
+
+Question: What is PMKSY?
+Answer: Pradhan Mantri Krishi Sinchayee Yojana.
+
+Question: What is the full form of HKKP
+Answer: Har Khet Ko Pani.
+
+Question: What is the full form of CAD?
+Answer: Command Area Development.
+
+
+
+Title: GUIDELINES FOR THE SCHEME REPAIR, RENOVATION AND RESTORATION(RRR) OF WATER BODIES UNDER
+
+Content: In India, tanks, ponds and lakes have traditionally played an important role in conserving water for meeting various needs of the communities. As per 5th Minor Irrigation Census 2013-2014, there are 5.16 lakh tanks and storages in the country as minor irrigation sources, out of which 4.62 lakh tanks are in use, and the remaining 0.53 lakh tanks are not in use. Many of these water bodies have gone into disuse because of the development of ground water irrigation systems, inadequate maintenance, encroachments, less discharge of water, storage not filled up fully, siltation of storage, salinity, drying up, getting destroyed beyond repair etc. A pilot scheme for “Repair, Renovation and Restoration (RRR) of Water Bodies directly linked to Agriculture” was launched in January, 2005 for implementation during the remaining period of Xth Plan with an outlay of Rs. 300 crore. The scheme was sanctioned in respect of 1,098 water bodies in 26 districts of 15 States, with a target to create 0.78 lakh hectare of additional irrigation potential.
+
+Question: How many tanks and storages are present in the country as minor irrigation sources?
+Answer: 5.16 lakh tanks and storages
+
+Question: What is the full form of RRR?
+Answer: Repair, Renovation and Restoration.
+
+Question: When was the pilot scheme for Repair, Renovation and Restoration (RRR) of water bodies directly linked to Agriculture launched ?
+Answer: January, 2005
+
+ 
+Content: Further during 2015-2016, Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched with the aim to enhance physical access of water on farm and expand cultivable area under assured irrigation, improve on farm water-use efficiency, in troduce sustainable water conservation practices etc. Har Khet Ko Pani (HKKP) is one of the components of PMKSY. The scheme of RRR of Water Bodies has become a part of PMKSY-HKKP. Recently, Government of India has approved the scheme of PMKSY with HKKP as one of the components, for implementation during 2021-26. RRR of Water Bodies has been approved for inclusion under PMKSY-HKKP.
+
+Question: What is PMKSY?
+Answer: Pradhan Mantri Krishi Sinchayee Yojana (PMKSY).
+
+Question: When was the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) Launched?
+Answer: During 2015-2016
+
+Question: What is the full form of HKKP?
+Answer: Har Khet Ko Pani
+
+
+Content: Detailed project report (DPR) for the proposal of water bodies is to be approved by State Technical Advisory Committee (TAC) constituted by the State, with representation from Central Water Commission (CWC) and Central Ground Water Board (CGWB).  b. The proposal for RRR of water bodies should have the approval of State Level Sanctioning Committee (SLSC), and must also be included in the District Irrigation Plan (DIP). c. The proposed works should not be receiving financial assistance under any other scheme of Government of India, or through external assistance, except for the components being implemented through convergence with other schemes, requirements for which have been brought out at para j below. However, the State is free to seek State share from any scheme of the State.
+
+Question: Who does approve the Detailed Project Report (DPR) for the proposal of water bodies?
+Answer: State Technical Advisory Committee (TAC) 
+
+Question: Whose approval should the proposal for RRR of water bodies have ?
+Answer: State Level Sanctioning Committee (SLSC)
+
+
+Content: DPR is to be prepared at the water body level, and works would be implemented by Water Users Association (WUA) /panchayat /a Government agency identified by the District Level Implementing Agency (DLIA). Dispute, if any, related to implementation of water body could be referred to DLIA for resolution. The implementation plan of the project will be placed before the Gram Sabha and its cooperation will be solicited for timely completion of the project. Activity mapping in respect of the role of Panchayat in the implementation of the scheme is placed at Annexure-II.
+
+Question: Who will resolve the disputes related to implementation of the water body?
+Answer: District Level Implementing Agency (DLIA).
+
+
+
+Title: Defination  GUIDELINES FOR SETTLEMENT OF CLAIMS FOR COMPENSATION FOR DEATH OR PERMANENT DISABILITY ARISING FROM ACCIDENTS FACED BY MEMBERS OF GENERAL PUBLIC AND CERTAIN CATEGORIES OF PERONS IN THE DEPARTMENT OF ECONOMIC AFFAIRS AND AUTONOMOUS ORGANISATIONS AND PUBLIC SECTOR UNDERTAKINGS UNDER ITS CONTROL
+
+Content: (a) Accident: Any death or permanent disability resulting solely and directly from anyunintended and unforeseen injurious occurrence caused during the maintenance, operation and provisioning of any public services undertaken by the Department. (b) Competent Authority: Competent Authority means Secretary to Government of India in the Department of Economic Affairs or the Chairman/Head of the autonomous organisation or Chairman cum Managing Director or the public sector undertaking under the control of the Department of Economic Affairs. (c) Department: means Department of Economic Affairs and for the purposes of the present Guidelines includes, any autonomous organisations and public sector undertaking, under the administrative control of the Department of Economic Affairs. (d) Dependent: As defined in the Employee’s Compensation Act, 1923. (e) Designated Officer: An Officer designated by the Competent Authority of the Grade of Junior Administrative Grade, (JAG) or equivalent for the purposes of receiving and processing claims for compensation under the present Guidelines. (f) Victim: Any person who suffers permanent disablement or dies in an accident as defined in these Guidelines. (g) Permanent Disablement: A disablement that is classified as a permanent total disablement under the proviso to Section 2 (I) of The Employee’s Compensation Act, 1923. (h) Detailed Accident Report: The report prepared by the police within a period of 30 days from the date of incident as per Schedule of this guidelines. (i) Extent of Liability: On the occurrence of any accident as defined under these Guidelines, the Department shall, whether or not there has been any wrongful act, neglect or default on part and notwithstanding anything contained in any other law, be liable to pay compensation to such extent as prescribed below: (i) In the event of death or permanent disability resulting from loss of both limbs: Rs. 10,00,000/- (Rupees Ten Lakh). (ii) In the event of other permanent disability: Rs. 7,00,000/-(Rupees Seven Lakh).
+
+
+Question: Definitions of Accident ?
+Answer: Accident: Any death or permanent disability resulting solely and directly from anyunintended and unforeseen injurious occurrence caused during the maintenance, operation and provisioning of any public services undertaken by the Department. 
+
+Question: What is the Competent Authority?
+Answer: Competent Authority means Secretary to Government of India in the Department of Economic Affairs or the Chairman/Head of the autonomous organisation or Chairman cum Managing Director or the public sector undertaking under the control of the Department of Economic Affairs.
+
+Question: what does Department means ?
+Answer: Department of Economic Affairs and for the purposes of the present Guidelines includes, any autonomous organisations and public sector undertaking, under the administrative control of the Department of Economic Affairs.
+
+Question: What is dependent employee?
+Answer: The dependent is entitled to the insurance benefit in case of a workplace accident or injury, resulting in the death of an employee. However, the survivor benefits are passed only to eligible dependents under the workmen compensation insurance agreement. Every employee must nominate at least one dependent.
+
+Question: Who is designated officer?
+Answer: An Officer designated by the Competent Authority of the Grade of Junior Administrative Grade, (JAG) or equivalent
+
+Question: What is victim?
+Answer: Any person who suffers permanent disablement or dies in an accident as defined in these Guidelines.
+
+Question: What is permanent disablement?
+Answer: A disablement that is classified as a permanent total disablement under the proviso to Section 2 (I) of The Employee’s Compensation Act, 1923.
+
+Question: What is the Detailed Accident Report (DAR)?
+Answer: The report prepared by the police within a period of 30 days from the date of incident as per Schedule of this guidelines.
+
+Question: What is the Extent of Liability?
+Answer: On the occurrence of any accident as defined under these Guidelines, the Department shall, whether or not there has been any wrongful act, neglect or default on part and notwithstanding anything contained in any other law, be liable to pay compensation to such extent as prescribed below: (i) In the event of death or permanent disability resulting from loss of both limbs: Rs. 10,00,000/- (Rupees Ten Lakh). (ii) In the event of other permanent disability: Rs. 7,00,000/-(Rupees Seven Lakh).
+
+
+
+Title: Guidelines for Adoption of Electronic Payments and Receipts (EPR)  
+
+Content: Jan Dhan Yojana, the Aadhaar initiative of UIDAI and Mobile number (JAM), this Trinity of reforms is one of the biggest pieces of reform ever attempted in India for direct subsidy transfer to poor citizens of India. With financial inclusion as one of the key priorities of Government, using JAM, it is necessary for Government Departments to adopt modes of electronic payments & receipts for its internal and external transactions. There exist a large number of options for enabling various payment channels and electronic modes for payments/receipts. This framework is formulated with the aim of enabling 100 percent electronic payment for all the external or internal transactions of the Departments. The framework provides the guidelines for facilitating the Departments to expeditiously enable electronic payments and receipts leveraging all the payment channels.
+
+Question: What is the full form of JAM?
+Answer: Jan Dhan Yojana, the Aadhaar initiative of UIDAI and Mobile number (JAM).
+
+
+
+Title: Policy Statement
+
+Content: Citizens to Government (C2G) and Business to Government (B2G) Payments Departments deliver various kinds of services to citizens and businesses and collect payments against delivered services through any one or more of the following modes: 5.1 Government to Citizens (G2C) Payments- As part of Government plan and non-plan schemes, Departments make payments to beneficiary of these schemes under various heads. Central government Departments primarily use PFMS for making such payments. Also, government hires external personnel to deliver services/support to the Departments and makes payment against such services to personnel. Government uses following modes for the payments to beneficiaries: • Cash • Paper Based ( Cheque ) • Direct Benefit Transfer to Citizen through NEFT/RTGS • Aadhaar Enabled Payments (AEPS). Central Government Departments use PFMS, eLekha and COMPACT for processing such payments and state Departments use government/own portals for making such payments. 5.2 Government to Businesses (G2B) Payments - Under defined expenditure heads, Government Departments either procure goods/products or sub-contract projects/services to external agencies/persons and make payments for such procurements and projects using any of the following modes: • Electronic based ( NEFT/RTGS) to businesses • Paper based ( Cheque) • Cash . In PFMS, the implementing agencies register as Program division and issue sanction orders, drawing and disbursement officer generates the bills and Pay and Accounts Officer (PAO), approves the bills  and makes the payments. State government Departments use individual systems for making such payments.5.3 Government to Employee (G2E) Payments- Central Departments make salary, GPF and pension payments to employees through electronic means primarily; Central Government officers use systems named as e-Lekha and COMPACT developed by Controller General of Account (CGA). State Departments are presently using self-developed or procured systems for making payments. Some payments like housing, loans, utility bills, petty contingent charges or remuneration of casual nature are paid using cheque or cash. 5.4 Government to Government (G2G) Payments - Central Government Departments use Public Finance and Management (PFMS) for making payments against plan and non-planned schemes. PFMS is mainly used for Central Sector and Central sponsored schemes and their interfaces with state treasury For making G2G payments, State Government Departments use developed or procured systems for making payments.
+
+Question: What is the full form of C2G?
+Answer: Citizens to Government.
+
+Question: What is the full form of B2G?
+Answer: Business to Government.
+
+Question: What is the full form of G2C?
+Answer: Government to Citizens.
+
+Question: What is the full form of G2B?
+Answer: Government to Businesses.
+
+Question: What is the full form of G2E?
+Answer: Government to Employee.
+
+Question: What is the full form of G2G?
+Answer: Government to Government.
+
+Question: What payment method Question : What is the payment method of Citizens to Government (C2G) and Business to Government (B2G) Payments ?
+Answer:
+
+Question: What payment method of Government to Citizens (G2C) Payments?
+Answer: As part of Government plan and non-plan schemes, Departments make payments to beneficiary of these schemes under various heads. Central government Departments primarily use PFMS for making such payments. Also, government hires external personnel to deliver services/support to the Departments and makes payment against such services to personnel. Government uses following modes for the payments to beneficiaries: • Cash • Paper Based ( Cheque ) • Direct Benefit Transfer to Citizen through NEFT/RTGS • Aadhaar Enabled Payments (AEPS). 
+
+Question: Central Government Departments use PFMS, eLekha and COMPACT for processing such payments and state Departments use government/own portals for making such payments of Government to Businesses (G2B) Payments?
+Answer: Under defined expenditure heads, Government Departments either procure goods/products or sub-contract projects/services to external agencies/persons and make payments for such procurements and projects using any of the following modes: • Electronic based ( NEFT/RTGS) to businesses • Paper based ( Cheque) • Cash. In PFMS, the implementing agencies register as Program division and issue sanction orders, drawing and disbursement officer generates the bills and Pay and Accounts Officer (PAO), approves the bills and makes the payments. State government Departments use individual systems for making such payments.
+
+Question: What payment method of Government to Employee (G2E) Payments?
+Answer: Central Departments make salary, GPF and pension payments to employees through electronic means primarily; Central Government officers use systems named as e-Lekha and COMPACT developed by Controller General of Account (CGA). State Departments are presently using self-developed or procured systems for making payments. Some payments like housing, loans, utility bills, petty contingent charges or remuneration of casual nature are paid using cheque or cash.
+
+Question: What payment method of Government to Government (G2G) Payments?
+Answer: Central Government Departments use Public Finance and Management (PFMS) for making payments against plan and non-planned schemes. PFMS is mainly used for Central Sector and Central sponsored schemes and their interfaces with state treasury For making G2G payments, State Government Departments use developed or procured systems for making payments.
+
+
+
+
+Title: Details of National/International/Special Days (Weeks/fortnights) adopted or observed by Ministries/Departments of the Central Government Policy for declaration of National/International/Special Days
+
+Content: 1. Pravasi Bhartiya Divas is observed on 9th January every year under the M/Overseas Indian Affairs. 2. India celebrates National Youth Day is on 12th January every year under the M/Youth Affairs & Sports. 3. The National Sports Day in India is celebrated on August 29 every year under the M/Youth Affairs & Sports. 4. National Tourism Day is celebrated on January 25 every year across the country under the M/Tourism. 5. World Tourism Day celebrated on 27th September under the M/Tourism. 6. International Customs Day is observed on 26th January every year under the M/Finance.Jan Dhan Yojana, the Aadhaar initiative of UIDAI and Mobile number (JAM). 7. Central Excise Day is observed on 24th February every year under the M/Finance. 8. Anti Leprosy Day is observed on 30th January every year under the D/Health & FW. 9. World TB Day is observed on 24th March every year under the D/Health & FW. 10. World Population Day is observed on 11th July every year under the D/Health & FW. 11. National Fortnight on Eye Donation is observed every year on 25th September-8th October under the D/Health & FW. 12. World Sight Day is observed on 2nd  of October Thursday every year under the D/Health & FW. 13. National Cancer Awareness Day is observed every year on 7th November under the D/Health & FW.14.International Wetland Day is observed on 2nd February every year under the M/Environment & Forests. 15. World Forestry Day is observed on 21st March under the M/Environment & Forests. 16. Wildlife Week is observed on 1st Week of October every year under the M/Environment &Forests. 17. World Environment Day is observed on 5th June every year under the M/Environment & Forests. 18. World Day to Combat Desertification and Drought is observed on 17th June every year under the M/Environment & Forests 19. International Day for Preservation of Ozone Layer is observed on 16th September every year under the M/Environment &Forests. 20. National Science Day observed on 28th February every year under the M/Science & Technology. 21. Technology Day is observed on 11th May every year under the M/Science & Technology. 22.International Women’s Day is observed on 8th March every year under the D/Women & Child Development. 23. National Nutrition November Week is observed from 	1st -7th annually under the D/Women & Child Development. 24. Children’s Day is observed on 14th November every year under the D/Women & Child Development. 25.World Water Day is observed on 22nd March every year under the M/Water Resources. 26. Water Resources Day is observed In the month of April/May annually under the M/Water Resources. 27.World Theatre Day is observed on 27th March every year under the M/Culture. 28. World Dance Day is observed on 29th April annually under the M/Culture. 29. Museum Day is observed on 18th May every year under the M/Culture. 30. World Puppetry Day is observed on 21st March every yaer under the M/Culture. 31. World Heritage Day is observed on 18th April every year under the M/ Culture. 32. National Maritime Day is observed on 5th April every year under the M/Shipping. 33. Sant Ravidas Jayanti is celebrated on 24th February every year under the M/SJ&E. 34. Ambedkar Jayanti is celebrated on 14th April every year under the M/Social Justice and Empowernment. 35. UN International Day against Drug Abuse and Illicit Trafficking is observed on 26th  June every year under the M/SJ&E. 36. UN International Day on Older Persons is observed on 1st October every year under the M/SJ&E. 37. UN International Day for Disabled Persons is observed on 3rd December every year under the M/SJ&E. 38. Nirvan Diwas of Shri B.R.Ambedkar is observed on 6th December every year under the M/SJ&E. 39. Co-operative Day observed from 1st Saturday of july every year under the D/Agr. & Cooperation. 40. World Food Day is observed on 16th  October every year under the D/Agr. Co- Operation. 41. World Coconut Day is observed on 2nd September every year under the D/Agr. & Cooperation. 42. Rajiv Gandhi Akshay Urja Diwas is obeserved on 20th August annually under the M/Non-Conventional Energy Resources. 43. Sadbhavana Diwas is observed on 20th August every year under the M/ Home Affairs. 44. Hindi Day is celebrated on 14th September every year under the M/ Home Affairs D/o Official. 45. SSI Day is observed on 30th August under the D/Small ScaleIndustries. 46. Teachers Day is celebrated on 5th September under the (M/o HRD)[Department of Secondary and Higher Education]. 47. International Literacy Day is observed on 8th September under the (Department of School Education and Literacy, M/o HRD). 48. National Education Day is observed on 11th November every year under the Department of Higher Education, M/o HRD. 49. World Space Week is observed from 4-10 October every year under the D/Space. 50. World Post Day is observed on 9th  October every year under the Deptt. of Post. 51. World Standards Day is observed on 14th October under the Bureau of IndianStatistics. 52. Statistical Day is observed on 29th June every year under the Ministry of statistics and Programme Implementation. 53. Armed Forces Flag Day is observed on 7th December every year under the M/Defence. 54. National Energy Conservation Day is observed on 14th  December every year under the Ministry of Power. 55. National Consumer Day is observed on 24th December under the Deptt. of Consumer Affairs. 56. World Consumer Rights Day is observed on 15th  March every day under the Deptt of Consumer Affairs. 57. World Habitat Day is observed every First Monday of October under the Ministry of Urban Employment and Poverty Alleviation. 58. World Communication Day is observed on 7th May every year under the D/Telecommunications. 59. World AIDS day is observed on 1st December every year under the M/o Health & Family Welfare. 60. National Voluntary Blood Donation Dayis observed on 1st October every year under the M/o Health & Family Welfare. 61. Earth Day is observed on 22nd April every day under the M/o Env. & Forest. 62. International Day for Biological Diversity is observed on 22nd May every year under the M/o Env.& Forest. 63. National Voters’Day is observed on 25th Jan every year under the M/o Law & Justice-Legislative Department. 64. National Mathematics Dayis observed on 22nd December every year under the D/o Atomic Energy. 65. Rashtriya Sankalp Diwas is observed on 31st October every year under the M/o Home Affairs/HR Division. 66. Quami Ekta Week is observed from 19-25 November every year under the M/o Home Affairs/ HR Division. 67. National Press Day is observed on 16th November every year under the M/o Information &Broadcasting. 68. Anti Terrorism Day is observed on 21st May every year under the (M/o Home Affairs/ HR Division.
+
+Question: On which day Pravasi Divas celebrated?
+Answer: 9th January.
+
+Question: What is National Youth Day celebrated?
+Answer: India celebrates National Youth Day on January 12.
+
+Question: What is date of National Sports Day?
+Answer: The National Sports Day in India is celebrated on August 29.
+
+Question: On which date Indian people celebrate National Tourism Day?
+Answer: National Tourism Day is celebrated on January 25 every year across the country.
+
+Question: world tourism day celebrated on ?
+Answer: 27th September.
+
+Question: international customs day celebration?
+Answer: 26th January .
+
+Question: central excise day is celebrated? 
+Answer: 24th February.
+
+Question: When Is Anti Leprosy Day in India?
+Answer: 30th January.
+
+Question: Which day is World Anti tuberculosis Day?
+Answer: 24th March.
+
+Question: World Population Day celebrated on?
+Answer: 11th July.
+
+Question: National Fortnight on Eye Donation?
+Answer: 25th September-8th October.
+
+Question: World Sight Day?
+Answer: 2nd of October Thursday .
+
+Question: When is the National cancer awareness day?
+Answer: 7th November.
+
+Question: world forestry day celebrated on? 
+Answer: 21st March.
+
+Question: Which Week is known as wildlife Week?
+Answer: 1st Week of October.
+
+Question: Which day celebrate Environment Day			
+Answer: 5th June.
+
+Question: World Day to Combat Desertification and Drought?
+Answer: 17th June.
+
+Question: Which International Day for the Preservation of the Ozone Layer celebrated?
+Answer: 16th September.
+
+Question: National Science Day celebrated ?
+Answer: 28th February.

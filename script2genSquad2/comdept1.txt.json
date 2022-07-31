@@ -1,0 +1,1376 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Commerce Department",
+            "paragraphs": [
+                {
+                    "context": "Subject Under Administrative Control\nWork Allocated to Department of Commerce in accordance with the Allocation of Business Rules, 1961\nMinistry Of Commerce And Industry (Vanijya Aur Udyog Mantralaya)\nDepartment Of Commerce (Vanijya Vibhag)\nThe mandate of the Department of Commerce is regulation and development of India's international trade and commerce.\nI. International Trade\nInternational Trade and Commercial Policy including tariff and non-tariff barriers.\nInternational Agencies connected with Trade Policy (e.g. UNCTAD, ESCAP, ECA, ECLA, EEC, EFTA, GATT/WTO, ITC and CFC)**. All issues connected to the WTO including interpretation of WTO rules and its dispute settlement mechanism.\nInternational Commodity Agreements other than agreements connected to wheat, sugar, jute and cotton.\nResidual work of Tariff Commission.\nII. Foreign Trade (Goods & Services)\nAll matters connected to foreign trade.\nForeign Trade Policy and Control, excluding matters connected to-\nimport of feature films;\nexport of Indian films- both feature length and short; and\nimport and distribution of cine-film (unexposed) and other goods required by the film industry.\nSetting up of Agricultural Export Zone (AEZ) and 100 Export Oriented Units (EoUs) including policy and regulatory framework and all other related matters.\nDevelopment, expansion of export production and regulation of foreign trade in relation to all commodities and products (excluding jute products and handicrafts).\nMatters connected to Export Promotion Board, Board of Trade and International Trade Advisory Committee.\nMatters connected to concerned Export Promotion Councils/ Export Promotion Organizations.\nCoordination for export infrastructure.\nProjects and programmes for assisting the export efforts.\nIII. State Trading\nPolicies of State Trading and performance of organisations established for the purpose.\nProduction, distribution (for domestic consumption and exports) and development of plantation crops, viz., tea, coffee, rubber, FCV tobacco*, spices (production development and export promotion of cardamom & pepper and export activities of all other spices). Export promotion of cashew and tobacco & their allied products.\nRegulation and export promotion of Flue Cured Virginia (FCV) tobacco and export promotion of all other types of tobacco & its allied products.\nProcessing and distribution for domestic consumption and exports of Instant Tea and Instant Coffee.\nIV. Special Economic Zones\nAll matters connected to development, operation and maintenance of special economic zones and units in special economic zones, including foreign trade policy, fiscal regime, investment policy, other economic policy and regulatory framework.\nV. Cadre Management Of Specific Central Services\nCadre Management and all matters pertaining to training and manpower planning for the following services-\nIndian Trade Service;\nIndian Supply Service;\nIndian Inspection Service.\nVI. Attached And Subordinate Offices\nThe following are attached and subordinate offices under this Department-\nAttached Offices\nDirectorate General of Anti-Dumping and Allied Duties (DGAD).\nDirectorate General of Foreign Trade (DGFT).\nDirectorate General of Supplies and Disposals (DGS&D).\nSubordinate Offices\nDirectorate General of Commercial Intelligence and Statistics(DGCI&S).\nOffice of Development Commissioner of Special Economic Zones-\nCochin Special Economic Zone, Kochi.\nFalta Special Economic Zone, Kolkata.\nKandla Special Economic Zone, Gujarat.\nMEPZ Special Economic Zone, Chennai.\nNoida Special Economic Zone, Noida.\nSanta Cruz Special Economic Zone, Mumbai.\nVisakhapatnam Special Economic Zone, Visakhapatnam.\nVII. Statutory/autonomous Bodies / Public Sector Undertakings / Other Organisations\nThe following are Statutory/Autonomous Bodies, Public Sector Undertakings and Other Autonomous Organisations under the oversight of this Department\nStatutory/autonomous Bodies\nAgricultural & Processed Food Products Export Development Authority (APEDA).\nCoffee Board.\nExport Inspection Council of India (EIC).\nRubber Board.\nSpices Board.\nTea Board.\nThe Marine Products Export Development Authority (MPEDA).\nTobacco Board.\nPublic Sector Undertakings\nECGC (Export Credit Guarantee Corporation of India Limited).\nITPO (India Trade Promotion Organization).\nMMTC Limited (formerly Minerals and Metals Trading Corporation of India Limited).\nPEC Limited (formerly The Projects and Equipment Corporation of India Limited).\nSTC Limited (State Trading Corporation of India Ltd.).\nSTCL Limited (formerly Spices Trading Corporation Ltd.).\nOther Autonomous Organisations\nFootwear Design & Development Institute (FDDI).\nIndian Diamond Institute (IDI).\nIndian Institute of Foreign Trade (IIFT).\nIndian Institute of Packaging (IIP).\nNational Centre for Trade Information (NCTI).\nPrice Stabilisation Fund Trust (PSFT).\nVIII. Acts/ Legislations\nActs/ Legislations directly pertaining to Department of Commerce\nAgricultural and Processed Food Products Export Development Authority (APEDA) Act, 1985.\nCoffee Board Act, 1942.\nExport (Quality Control and Inspection) Act, 1963.\nForeign Trade (Development and Regulation) Act, 1992.\nRubber Board Act, 1947.\nSpices Board Act, 1986.\nTea Board Act, 1953.\nThe Marine Products Export Development Authority (MPEDA) Act, 1972.\nThe Special Economic Zones Act, 2005.\nTobacco Board Act, 1975.\nThe Full Form Of Abbreviations Used At Sl.no.a.i.2 Hereinabove Is As Under:-\nUNCTAD - United Nations Conference on Trade and Development.\nESCAP - Economic and Social Commission for Asia and the Pacific.\nECA - Export Credit Agencies.\nEEC - European Economic Community.\nEFTA - European Free Trade Association.\nGATT - General Agreement on Tariffs and Trade.\nWTO - World Trade Organisation.\nITC - International Trade Centre\nCFC - Controlled Foreign Corporation.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the Department of Commerce?",
+                            "id": "id_0_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "Department Of Commerce"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the mandate of the Department of Commerce in accordance with the Allocation of Business Rules?",
+                            "id": "id_0_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Agencies connected with what?",
+                            "id": "id_0_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 433,
+                                    "text": "tariff and non-tariff barriers"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Agencies connected with what?",
+                            "id": "id_0_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 503,
+                                    "text": "Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is one of the issues related to the WTO?",
+                            "id": "id_0_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 627,
+                                    "text": "interpretation of WTO rules and its dispute settlement mechanism"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Commodity Agreements other than agreements connected to what?",
+                            "id": "id_0_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 763,
+                                    "text": "wheat, sugar, jute and cotton"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "'Who is responsible for the Residual work of?",
+                            "id": "id_0_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 811,
+                                    "text": "Tariff Commission"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the title of the work of Tariff Commission?",
+                            "id": "id_0_0_8",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is Goods & Services?",
+                            "id": "id_0_0_9",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 834,
+                                    "text": "Foreign Trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the name of the film industry that is required by the film industry?",
+                            "id": "id_0_0_10",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many EoUs are there?",
+                            "id": "id_0_0_11",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1202,
+                                    "text": "100 Export Oriented Units"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the matters related to?",
+                            "id": "id_0_0_12",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1492,
+                                    "text": "Export Promotion Board, Board of Trade and International Trade Advisory Committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are Matters connected to?",
+                            "id": "id_0_0_13",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1606,
+                                    "text": "Export Promotion Councils/ Export Promotion Organizations"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the coordination of the Export Promotion Councils/ Export Promotion Organizations?",
+                            "id": "id_0_0_14",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1682,
+                                    "text": "export infrastructure"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the projects and programmes for assisting the export efforts?",
+                            "id": "id_0_0_15",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the State Trading Policies of State Trading?",
+                            "id": "id_0_0_16",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the purpose of a State Trading Policies of State Trading?",
+                            "id": "id_0_0_17",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What type of crops are produced by the Department of Commerce?",
+                            "id": "id_0_0_18",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1953,
+                                    "text": "plantation crops"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is export promotion of?",
+                            "id": "id_0_0_19",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2149,
+                                    "text": "cashew and tobacco & their allied products"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is FCV?",
+                            "id": "id_0_0_20",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2228,
+                                    "text": "Flue Cured Virginia"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the purpose of Administrative Control Work Allocated to Department of Commerce in accordance with the Allocation of Business Rules?",
+                            "id": "id_0_0_21",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2336,
+                                    "text": "Processing and distribution for domestic consumption and exports"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the name of the department that regulates India's international trade and commerce?",
+                            "id": "id_0_0_22",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "Department Of Commerce"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the definition of International Trade?",
+                            "id": "id_0_0_23",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What types of barriers are included in International Trade and Commercial Policy?",
+                            "id": "id_0_0_24",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the definition of International Trade?",
+                            "id": "id_0_0_25",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "UNCTAD, ESCAP, ECA, ECLA, EEC, EFTA, GATT/WTO, ITC and",
+                            "id": "id_0_0_26",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 503,
+                                    "text": "Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are some issues related to the WTO?",
+                            "id": "id_0_0_27",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 627,
+                                    "text": "interpretation of WTO rules and its dispute settlement mechanism"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Commodity Agreements other than agreements connected to what?",
+                            "id": "id_0_0_28",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 763,
+                                    "text": "wheat, sugar, jute and cotton"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the Residual work of?",
+                            "id": "id_0_0_29",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 811,
+                                    "text": "Tariff Commission"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the definition of Foreign Trade?",
+                            "id": "id_0_0_30",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Goods & Services are all matters connected to foreign trade. What is Foreign Trade Policy and Control?",
+                            "id": "id_0_0_31",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 834,
+                                    "text": "Foreign Trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does import and distribution of cine-film and other goods require by the film industry?",
+                            "id": "id_0_0_32",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many Export Oriented Units are there?",
+                            "id": "id_0_0_33",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1202,
+                                    "text": "100 Export Oriented Units"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Development, expansion of what in relation to all commodities and products?",
+                            "id": "id_0_0_34",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1334,
+                                    "text": "export production and regulation of foreign trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is responsible for matters related to the Department of Commerce?",
+                            "id": "id_0_0_35",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1492,
+                                    "text": "Export Promotion Board, Board of Trade and International Trade Advisory Committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is concerned with matters connected to the Department of Commerce?",
+                            "id": "id_0_0_36",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1606,
+                                    "text": "Export Promotion Councils/ Export Promotion Organizations"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Coordination for what?",
+                            "id": "id_0_0_37",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1682,
+                                    "text": "export infrastructure"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the State Trading Policies of State Trading and performance of organisations established for the purpose?",
+                            "id": "id_0_0_38",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the Department of Commerce focus on?",
+                            "id": "id_0_0_39",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "Tea, coffee, rubber and spices are examples of what?",
+                            "id": "id_0_0_40",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1953,
+                                    "text": "plantation crops"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the Department of Commerce promote?",
+                            "id": "id_0_0_41",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2149,
+                                    "text": "cashew and tobacco & their allied products"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does FCV stand for?",
+                            "id": "id_0_0_42",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2228,
+                                    "text": "Flue Cured Virginia"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the purpose of processing and distribution for domestic consumption and exports?",
+                            "id": "id_0_0_43",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2336,
+                                    "text": "Processing and distribution for domestic consumption and exports"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is Vijya Vibhag?",
+                            "id": "id_0_0_44",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "Department Of Commerce"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the mandate of the Department of Commerce?",
+                            "id": "id_0_0_45",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the International Trade International Trade and Commercial Policy include?",
+                            "id": "id_0_0_46",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 433,
+                                    "text": "tariff and non-tariff barriers"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are International Agencies connected with?",
+                            "id": "id_0_0_47",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 503,
+                                    "text": "Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is one of the issues related to the WTO?",
+                            "id": "id_0_0_48",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 627,
+                                    "text": "interpretation of WTO rules and its dispute settlement mechanism"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Commodity Agreements other than agreements related to what?",
+                            "id": "id_0_0_49",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 763,
+                                    "text": "wheat, sugar, jute and cotton"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is responsible for the Residual work of?",
+                            "id": "id_0_0_50",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 811,
+                                    "text": "Tariff Commission"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does Goods & Services stand for?",
+                            "id": "id_0_0_51",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 834,
+                                    "text": "Foreign Trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the film industry required to import and distribute?",
+                            "id": "id_0_0_52",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many Export Oriented Units are there?",
+                            "id": "id_0_0_53",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1202,
+                                    "text": "100 Export Oriented Units"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the expansion of in relation to all commodities and products?",
+                            "id": "id_0_0_54",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1334,
+                                    "text": "export production and regulation of foreign trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who are the Matters connected to?",
+                            "id": "id_0_0_55",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1492,
+                                    "text": "Export Promotion Board, Board of Trade and International Trade Advisory Committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the Matters connected to?",
+                            "id": "id_0_0_56",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1606,
+                                    "text": "Export Promotion Councils/ Export Promotion Organizations"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does Coordination for?",
+                            "id": "id_0_0_57",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1682,
+                                    "text": "export infrastructure"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Projects and programmes for assisting the export efforts. Projects and programmes for assisting the export efforts?",
+                            "id": "id_0_0_58",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the State Trading Policies of State Trading Policies of State Trading and performance of organisations established for the purpose?",
+                            "id": "id_0_0_59",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the State Trading Policies of State Trading and performance of organisations established for the purpose?",
+                            "id": "id_0_0_60",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What type of crops does the Department of Commerce develop?",
+                            "id": "id_0_0_61",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1953,
+                                    "text": "plantation crops"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is export promotion of?",
+                            "id": "id_0_0_62",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2149,
+                                    "text": "cashew and tobacco & their allied products"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the main purpose of the Department of Commerce?",
+                            "id": "id_0_0_63",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2336,
+                                    "text": "Processing and distribution for domestic consumption and exports"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the name of the department that regulates India's international trade and commerce?",
+                            "id": "id_0_0_64",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "Department Of Commerce"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "nternational Trade and Commercial Policy includes tariff and non-tariff barriers. International Agencies connected with Trade Policy (e.g. UNCTAD,",
+                            "id": "id_0_0_65",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Trade and Commercial Policy includes what?",
+                            "id": "id_0_0_66",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 433,
+                                    "text": "tariff and non-tariff barriers"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "UNCTAD, ESCAP, ECA, ECLA, EEC, EFTA, GATT/WTO, ITC and",
+                            "id": "id_0_0_67",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 503,
+                                    "text": "Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are some issues related to the WTO?",
+                            "id": "id_0_0_68",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 627,
+                                    "text": "interpretation of WTO rules and its dispute settlement mechanism"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Commodity Agreements other than agreements connected to what?",
+                            "id": "id_0_0_69",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 763,
+                                    "text": "wheat, sugar, jute and cotton"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Commodity Agreements other than agreements connected to wheat, sugar, jute and cotton. Residual work of what?",
+                            "id": "id_0_0_70",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 811,
+                                    "text": "Tariff Commission"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Foreign Trade (Goods & Services) All matters connected to foreign trade. Foreign Trade Policy and Control, excluding matters related to- import of Indian",
+                            "id": "id_0_0_71",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Goods & Services) All matters connected to foreign trade. Foreign Trade Policy and Control, excluding matters related to- import of feature films; export",
+                            "id": "id_0_0_72",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 834,
+                                    "text": "Foreign Trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Import and distribution of cine-film (unexposed) and other goods required by the film industry what?",
+                            "id": "id_0_0_73",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many Export Oriented Units are there?",
+                            "id": "id_0_0_74",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1202,
+                                    "text": "100 Export Oriented Units"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Development, expansion of what in relation to all commodities and products (excluding jute products and handicrafts)?",
+                            "id": "id_0_0_75",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1334,
+                                    "text": "export production and regulation of foreign trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are matters connected to?",
+                            "id": "id_0_0_76",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1492,
+                                    "text": "Export Promotion Board, Board of Trade and International Trade Advisory Committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Matters connected to concerned what?",
+                            "id": "id_0_0_77",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1606,
+                                    "text": "Export Promotion Councils/ Export Promotion Organizations"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Coordination for what?",
+                            "id": "id_0_0_78",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1682,
+                                    "text": "export infrastructure"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Projects and programmes for assisting the export efforts what?",
+                            "id": "id_0_0_79",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "State Trading Policies of State Trading and performance of organisations established for the purpose. Production, distribution (for domestic consumption and exports) and development of plantation",
+                            "id": "id_0_0_80",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are State Trading Policies of State Trading and performance of organisations established for the purpose?",
+                            "id": "id_0_0_81",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What are tea, coffee, rubber, FCV tobacco* and spices?",
+                            "id": "id_0_0_82",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1953,
+                                    "text": "plantation crops"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Export promotion of what products?",
+                            "id": "id_0_0_83",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2149,
+                                    "text": "cashew and tobacco & their allied products"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does FCV stand for?",
+                            "id": "id_0_0_84",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2228,
+                                    "text": "Flue Cured Virginia"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the processing and distribution for domestic consumption and exports?",
+                            "id": "id_0_0_85",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2336,
+                                    "text": "Processing and distribution for domestic consumption and exports"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is Vijya Vibhag?",
+                            "id": "id_0_0_86",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "Department Of Commerce"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the mandate of the Department of Commerce?",
+                            "id": "id_0_0_87",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the International Trade International Trade and Commercial Policy include?",
+                            "id": "id_0_0_88",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 433,
+                                    "text": "tariff and non-tariff barriers"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are International Agencies connected with?",
+                            "id": "id_0_0_89",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 503,
+                                    "text": "Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is one of the issues related to the WTO?",
+                            "id": "id_0_0_90",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 627,
+                                    "text": "interpretation of WTO rules and its dispute settlement mechanism"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "International Commodity Agreements other than agreements related to what?",
+                            "id": "id_0_0_91",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 763,
+                                    "text": "wheat, sugar, jute and cotton"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is responsible for the Residual work of?",
+                            "id": "id_0_0_92",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 811,
+                                    "text": "Tariff Commission"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a part of the Tariff Commission?",
+                            "id": "id_0_0_93",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does Goods & Services stand for?",
+                            "id": "id_0_0_94",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 834,
+                                    "text": "Foreign Trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the film industry required to import and distribute?",
+                            "id": "id_0_0_95",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How many Export Oriented Units are there?",
+                            "id": "id_0_0_96",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1202,
+                                    "text": "100 Export Oriented Units"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the expansion of in relation to all commodities and products?",
+                            "id": "id_0_0_97",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1334,
+                                    "text": "export production and regulation of foreign trade"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who are the Matters connected to?",
+                            "id": "id_0_0_98",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1492,
+                                    "text": "Export Promotion Board, Board of Trade and International Trade Advisory Committee"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are the Matters connected to?",
+                            "id": "id_0_0_99",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1606,
+                                    "text": "Export Promotion Councils/ Export Promotion Organizations"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does Coordination for?",
+                            "id": "id_0_0_100",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1683,
+                                    "text": "xport infrastructure"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Projects and programmes for assisting the export efforts. Projects and programmes for assisting the export efforts?",
+                            "id": "id_0_0_101",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the State Trading Policies of State Trading Policies of State Trading and performance of organisations established for the purpose?",
+                            "id": "id_0_0_102",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the State Trading Policies of State Trading and performance of organisations established for the purpose?",
+                            "id": "id_0_0_103",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What type of crops does the Department of Commerce develop?",
+                            "id": "id_0_0_104",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1953,
+                                    "text": "plantation crops"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is export promotion of?",
+                            "id": "id_0_0_105",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2149,
+                                    "text": "cashew and tobacco & their allied products"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is FCV?",
+                            "id": "id_0_0_106",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2228,
+                                    "text": "Flue Cured Virginia"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the main purpose of the Department of Commerce?",
+                            "id": "id_0_0_107",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2336,
+                                    "text": "Processing and distribution for domestic consumption and exports"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Advisory Board",
+            "paragraphs": [
+                {
+                    "context": "Advisory Board\nBoard of Trade (BOT)\nThe Board of Trade (BOT) was reconstituted on 16.07.2009 under the Chairmanship of Commerce & Industry Minister vide order No.01/94/180/438/AM05/BOT/PC-V dated 16.07.2009. The Board of Trade, inter alia, advises the Government on policy measures connected with the Foreign Trade Policy in order to achieve the objectives of boosting India\u2019s trade.\nThe Sixth meeting of the reconstituted Board of Trade was held on 27.08.2013 to discuss the following issues:\nOverview of global Trade\nPolicy measures to mitigate fallout of the adverse scenario\nProcedural simplification: specific suggestion, if any; and\nViews on Strategy paper put out by Department of Commerce.\nCommerce, Industry and Textile Minister during the meeting has informed that India has achieved the export target of US$ 306 billion for 2012-2013 which is heartening and assured that the Government will continue with its work program me towards facilitating exports and reduce the transaction cost.\nInter State Trade Council\nThe Inter-State Trade Council has been set up to serve as mechanism for institutionalized dialogue between the Union and the State/ UT in matter relating to trade facilitation and to create a framework for making States partners in India\u2019 export effort.\nCouncil for Trade Development and Promotion\nCouncil for Trade Development and Promotion has been constituted with effect from 3rd July, 2015, to ensure a continuous dialogue with State Governments and UTs on measures for providing an International trade enabling environment in the States and to create a framework for making the States active partners in boosting India\u2019s exports. The Term of References for Council for Trade Development and Promotion would be as follows:\nTo provide a platform to State Governments and UTs for articulating their perspectives on trade policy;\nTo provide a platform to Government of India for apprising State Governments and UTs about international development affecting India\u2019s trade potential and opportunities and to prepare them to deal with evolving situation;\nTo help State Governments develop and pursue export strategies in line with national Foreign Trade Policy;\nTo provide a platform for deliberation on the need for infrastructure relevant for promoting trade and for identification of impediments and infrastructure gaps which adversely affect India\u2019s export;\nTo facilitate a mechanism for discussion on operationalization of trade infrastructure.\nThe composition of the Council for Trade Development and Promotion would be as below:\n1.\tUnion Commerce and Industry Minister\tChairperson\n2.\tMinister in-charge of Trade and Commerce in State Governments and UTs\tMembers\n3.\tSecretaries to Government of India:\nCommerce, Revenue, Shipping, Road Transport & Highways, Civil Aviation, Industrial Policy & Promotion, Agriculture, Animal Husbandry, Food Processing, Information Technology, Deptt. of Economic Affairs, MSME, Textiles, Environment\tMembers\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\tChairman, Railway Board\nSecretary/CEO, Niti Ayog\nDGFT\nDGEP\nDirector Centre for WTO Studies\nDirector RIS\nDG FIEO\nSecretary / General of FICCI, CII and ASSOCHAM\tMembers\n12.\tConcerned Joint Secretary in D/o Commerce\tMember Secretary\nChairman can opt any other official or expert when required.",
+                    "qas": [
+                        {
+                            "question": "When was the Board of Trade reconstituted?",
+                            "id": "id_1_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 82,
+                                    "text": "16.07.2009"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What policy does the Board of Trade advise the Government on in order to achieve the objectives of boosting India\u2019s trade?",
+                            "id": "id_1_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 301,
+                                    "text": "Foreign Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the Sixth meeting of the reconstituted Board of Trade held?",
+                            "id": "id_1_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 450,
+                                    "text": "27.08.2013"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What was India's export target for 2012-2013?",
+                            "id": "id_1_0_4",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is the Inter-State Trade Council set up to serve as mechanism for institutionalized dialogue between the Union and the State/UT?",
+                            "id": "id_1_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 998,
+                                    "text": "Inter State Trade Council"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the Council for Trade Development and Promotion constituted?",
+                            "id": "id_1_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1404,
+                                    "text": "3rd July, 2015"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What did the Board of Trade facilitate a mechanism for discussion on operationalization of trade infrastructure?",
+                            "id": "id_1_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the purpose of the Advisory Board Board of Trade?",
+                            "id": "id_1_0_8",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the Council for Trade Development and Promotion constituted?",
+                            "id": "id_1_0_9",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1404,
+                                    "text": "3rd July, 2015"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does the Inter-State Trade Council stand for?",
+                            "id": "id_1_0_10",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 998,
+                                    "text": "Inter State Trade Council"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What was India's export target for 2012-2013?",
+                            "id": "id_1_0_11",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "When was the Sixth meeting of the reconstituted Board of Trade held?",
+                            "id": "id_1_0_12",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 450,
+                                    "text": "27.08.2013"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What policy does the Board of Trade advise the Government on?",
+                            "id": "id_1_0_13",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 301,
+                                    "text": "Foreign Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the Board of Trade reconstituted?",
+                            "id": "id_1_0_14",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 82,
+                                    "text": "16.07.2009"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What policy does the Board of Trade advise the Government on?",
+                            "id": "id_1_0_15",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 301,
+                                    "text": "Foreign Trade Policy"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the Sixth meeting of the reconstituted Board of Trade held?",
+                            "id": "id_1_0_16",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 450,
+                                    "text": "27.08.2013"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was Council for Trade Development and Promotion constituted?",
+                            "id": "id_1_0_17",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1404,
+                                    "text": "3rd July, 2015"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the purpose of the mechanism for discussion on operationalization of trade infrastructure?",
+                            "id": "id_1_0_18",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the name of the Inter-State Trade Council?",
+                            "id": "id_1_0_19",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 998,
+                                    "text": "Inter State Trade Council"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

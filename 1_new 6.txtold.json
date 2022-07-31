@@ -1,0 +1,912 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Terms and Definitions",
+            "paragraphs": [
+                {
+                    "context": "(1) \u201cAuthorized Representative\u201d shall mean any person authorized by either of the parties. (2) \u201cBidder\u201d means any firm offering the solution(s), service(s) and/or materials required in the RFP. The word Bidder when used in the pre award period shall be synonymous with Bidder, and when used after award of the Contract shall mean the successful Bidder or Vendor with whom Government of <__> signs the agreement for rendering of services for SWAN. (3) \u201cBOOT model\u201d means Build Own Operate and Transfer(BOOT) model. (4) \u201cContract\u201d is used synonymously with Agreement. (5) \u201cDefault Notice\u201d shall mean the written notice of Default of the Agreement issued by one Party to the other in terms hereof. (6) \u201cFinal Acceptance Test(FAT)\u201d means the acceptance testing of the network including equipment at SHQ, all DHQs, all SDHQs/ BLOCKs and all co-located & remote offices. (7) \u201cFraudulent Practice\u201d means a misrepresentation of facts in order to influence a procurement process or the execution of a Contract and includes collusive practice among Bidders(prior to or after Bid submission) designed to establish Bid prices at artificial non-competitive levels and to deprive the Government of Andhra Pradesh of the benefits of free and open competition. (8) \u201cGoI\u201d shall stand for the Government of India. (9) \u201cGo<state>\u201d shall stand for the Government of <____>. (10) \u201cImplementation Period\u201d shall mean the period from the date of signing of the Agreement and up to the completion of time period of contract. (11) \u201cITIL\u201d means Information Technology Infrastructure Library (ITIL). (12) \"Law\" shall mean any Act, notification, bye law, rules and regulations, directive, ordinance, order or instruction having the force of law enacted or issued by the Central Government and/ or the Government of <state> or any other Government or regulatory authority or political subdivision of government agency. (13) \u201cLOI\u201d means issuing of Letter of Intent which shall constitute the intention of the Tenderer to place the Purchase Order with the successful bidder. (14) \u201cPartial Acceptance Test (PAT)\u201d means the provisional acceptance testing of SHQ and all DHQs. (15) \"Party\" means Government of <state> or Bidder, individually and \u201cParties\u201d mean Government of <<State> and Bidder, collectively. (16) \u201cPoP\u201d refers to Point of Presence with respect to SWAN setup in State. (17) \u201cRemote Office\u201d means the office located at a distance of more than 1Km from the respective Centre. (18) \u201cRequest for Proposal (RFP)\u201d, means this detailed notification seeking a set of solution(s), services(s), materials and/or any combination of them. (19) \u201cRequirements\u201d shall mean and include schedules, details, description, statement of technical data, performance characteristics, standards(Indian as well as International) as applicable and specified in the RFP. (20) \"Service\" means provision of Contracted service as per this RFP. (21) \u201cSite\u201d shall mean the location(s) for which the Contract has been issued and where the service shall be provided as per agreement. (22) \u201cState\u201d shall mean the state of <State name>. (23) \u201cSWAN\u201d shall mean State Wide Area Network. (24) \"Third Party Agency\" means the successful bidder, appointed by Government of <state> for monitoring the SWAN during commissioning and operation. (25) \u201cTermination Notice\u201d means the written notice of termination of the Agreement issued by one Party to the other in terms hereof.",
+                    "qas": [
+                        {
+                            "question": "What is the Authorized Representative?",
+                            "id": "id_0_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "\u201cAuthorized Representative\u201d shall mean any person authorized by either of the parties."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who is the \u201cBidder\u201d?",
+                            "id": "id_0_0_2",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is the Full Form of BOOT model?",
+                            "id": "id_0_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 470,
+                                    "text": "Build Own Operate and Transfer"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What are synonyms Contract?",
+                            "id": "id_0_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 518,
+                                    "text": "\u201cContract\u201d is used synonymously with Agreement."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "How do you use Contracts?",
+                            "id": "id_0_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 518,
+                                    "text": "\u201cContract\u201d is used synonymously with Agreement."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is default Notice in an agreements?",
+                            "id": "id_0_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 570,
+                                    "text": "\u201cDefault Notice\u201d shall mean the written notice of Default of the Agreement issued by one Party to the other in terms hereof."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is FAT?",
+                            "id": "id_0_0_7",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What Means of Fraudulent Practice?",
+                            "id": "id_0_0_8",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is the full form of GOI?",
+                            "id": "id_0_0_9",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1275,
+                                    "text": "Government of India."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "State Name?",
+                            "id": "id_0_0_10",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1300,
+                                    "text": "\u201cGo<state>\u201d shall stand for the Government of <____>."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is implementation period?",
+                            "id": "id_0_0_11",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1359,
+                                    "text": "\u201cImplementation Period\u201d shall mean the period from the date of signing of the Agreement and up to the completion of time period of contract."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a law?",
+                            "id": "id_0_0_12",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1577,
+                                    "text": "\"Law\" shall mean any Act, notification, bye law, rules and regulations, directive, ordinance, order or instruction having the force of law enacted or issued by the Central Government and/ or the Government of <state> or any other Government or regulatory authority or political subdivision of government agency."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What does a letter of intent contain?",
+                            "id": "id_0_0_13",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is PAT?",
+                            "id": "id_0_0_14",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2049,
+                                    "text": "Partial Acceptance Test"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the Party?",
+                            "id": "id_0_0_15",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2147,
+                                    "text": "\"Party\" means Government of <state> or Bidder, individually"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of POP?",
+                            "id": "id_0_0_16",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2280,
+                                    "text": "\u201cPoP\u201d refers to Point of Presence"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is remote office?",
+                            "id": "id_0_0_17",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2356,
+                                    "text": "\u201cRemote Office\u201d means the office located at a distance of more than 1Km from the respective Centre."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the RFP?",
+                            "id": "id_0_0_18",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What are requirements?",
+                            "id": "id_0_0_19",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "what is means service?",
+                            "id": "id_0_0_20",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2831,
+                                    "text": "\"Service\" means provision of Contracted service as per this RFP."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "what is the site?",
+                            "id": "id_0_0_21",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "Which state name?",
+                            "id": "id_0_0_22",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3037,
+                                    "text": "\u201cState\u201d shall mean the state of <State name>."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is a third party agency?",
+                            "id": "id_0_0_23",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3136,
+                                    "text": "\"Third Party Agency\" means the successful bidder, appointed by Government of <state> for monitoring the SWAN during commissioning and operation."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the termination Notice?",
+                            "id": "id_0_0_24",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 3286,
+                                    "text": "\u201cTermination Notice\u201d means the written notice of termination of the Agreement issued by one Party to the other in terms hereof."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "About SWAN Scheme",
+            "paragraphs": [
+                {
+                    "context": "The National e-Governance Plan (NEGP) of Government of India has a clear focus on improving delivery of government services to citizens, e-Governance is noted to play a very active role in this endeavor. NEGP recognizes that creation of basic IT and service delivery infrastructure by the States is essential for effective and cost efficient deployment of eGovernance, with this view, NeGP recognizes to undertake three core projects of State Wide Area Network (SWAN), State Data Centre (SDC) and Citizen Service Center (CSC) are being established in every State. Department of Information Technology, Government of India is providing support for these projects to the state. SWAN (State Wide Area Network) is envisaged as the converged backbone network for data, voice and video communications throughout the State/UT and is expected to cater to the information communication requirements of all the departments. Key focus of the SWAN project is on high service delivery. As per SWAN policy, all States/UTs are implementing SWAN under two Options. Under the first Option, the State is to select a suitable Public Private Partnership (PPP) model and get the SWAN commissioned and operated for 5 years by a private Network Operator. In the second Option, the SWAN for the States/UTs would be set up and operated for 5 years by the National Informatics Centre (NIC). In either of the Options a Third Party Auditor (TPA) is required.",
+                    "qas": [
+                        {
+                            "question": "What is swan under National E-Governance?",
+                            "id": "id_1_0_1",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Third Party Auditor (TPA)",
+            "paragraphs": [
+                {
+                    "context": "TPA is required to provide dedicated Man power for entire contract period with a State/UT. It is expected at least one person need to be deployed at the SHQ location and further a team shall be required to undertake the site visits as per the requirements of the RFP. Arranging access to NMS and related systems shall be the State/UT\u2019s responsibility. Further, the State/UT shall provide office space at the SHQ location with facilities like furniture, power connection, telephone/fax connection etc. The equipment for TPA\u2019s team (like laptop/workstation, printer etc.) shall be TPA\u2019s responsibility.All the PoP equipment as per DIT\u2019s SWAN Scheme shall be under purview of this TPA contract. The details list of the same shall be provided. For any additional equipment to be monitored within the existing PoPs, the TPA charges shall be as per mutual agreement between the state and TPA. For additional locations, the per PoP charges shall apply.",
+                    "qas": [
+                        {
+                            "question": "What is TPA in compliance?",
+                            "id": "id_2_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "TPA is required to provide dedicated Man power for entire contract period with a State/UT. It is expected at least one person need to be deployed at the SHQ location and further a team shall be required to undertake the site visits as per the requirements of the RFP."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "TPA Scope of Work",
+            "paragraphs": [
+                {
+                    "context": "Third Party Audit shall include monitoring the performance of the SWAN with a view to ensure desired Quality of Service (QoS) by the Network Operator and bandwidth service provider, as defined in the respective SLA\u2019s, signed between the State/UT Government, and Bandwidth Service Provider, Network Operator. These Guidelines define the broad areas of work, which TPA shall perform for a period of five years from the date of final acceptance test of the network. However, the TPA shall be appointed immediately, preferably before the acceptance testing and commissioning of the SWAN.",
+                    "qas": [
+                        {
+                            "question": "What is the role of a TPA?",
+                            "id": "id_3_0_1",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Acceptance Test (PAT, FAT)",
+            "paragraphs": [
+                {
+                    "context": "a. TPA shall review the detailed acceptance test plan (PAT and FAT) in consultation with the State/UT after taking into account any comments/suggestions of the DIT. b. TPA would also conduct audit of the process, plan and results of the Acceptance Test carried out by the Network Operator. TPA would issue certification of completion for PoPs, for which TPA shall verify availability of all the defined services as per the contract signed between SWAN operator and State government. The SWAN operator shall be required to demonstrate all the services/features/functionalities as mentioned in the agreement",
+                    "qas": [
+                        {
+                            "question": "What is FAT and PAT?",
+                            "id": "id_4_0_1",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Inventory",
+            "paragraphs": [
+                {
+                    "context": "a. TPA audit would include verification of completeness of bill of material for each PoP. b. TPA audit would include review that all hardware and software items have been installed at the sites as per the contract. c. TPA audit would include maintenance of an inventory register to have PoP wise equipment list, including hardware and software. TPA audit would also include updating inventory registry in event of any changes in the inventory. Inventory Audit is to be performed annually and the relevant changes in the year of the audit shall be recorded. Inventory Details shall be provided by the State and TPA shall maintain a record at its end, which shall be updated by TPA based on information provided by the State. Also, the verification will be done through tools and through site visits as explained in RFP.",
+                    "qas": [
+                        {
+                            "question": "What should I ask about inventory?",
+                            "id": "id_5_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "a. TPA audit would include verification of completeness of bill of material for each PoP. b. TPA audit would include review that all hardware and software items have been installed at the sites as per the contract. c. TPA audit would include maintenance of an inventory register to have PoP wise equipment list, including hardware and software."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "SLA Monitoring Audit",
+            "paragraphs": [
+                {
+                    "context": "SLA monitoring would include audit of the performance of network. Network includes the components provided and operated by the network operator and bandwidth provisioned by the bandwidth service provider. Subsequently, TPA would carry out the following tasks: a. TPA audit would include preparation of templates for reports to be submitted by SWAN operator to TPA / State and report to be submitted by the TPA to the State. TPA shall also tabulate measurable parameters as defined in the respective SLAs with the SWAN operator and bandwidth service provider. b. TPA shall review the configuration/deployment parameters of the NMS and the process followed to ensure that the reports generated are authentic. c. TPA would proactively convey to the stakeholders any concerns based on the information generated using NMS. d. TPA would provide quarterly certification of network availability and perform penalty computation for the calculation of QGR to be paid to the SWAN operator as per the SLA and payment conditions mentioned in the agreement between SWAN operator and the State/UT(on Quarterly basis). e. TPA would also undertake proactive monitoring of the links provided by the bandwidth service provider based on the SLA signed by the bandwidth service provider. The Agency shall submit reports on the same to the government who would use these reports for making the payments to the bandwidth service provider. f. TPA audit would also include site inspection to verify those parameters of the SLA, which cannot be monitored using NMS. These site visits would be done for atleast 5% of the sites (at each network tier) per quarter.",
+                    "qas": [
+                        {
+                            "question": "What is SLA audit?",
+                            "id": "id_6_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "SLA monitoring would include audit of the performance of network. Network includes the components provided and operated by the network operator and bandwidth provisioned by the bandwidth service provider."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Usage Audit",
+            "paragraphs": [
+                {
+                    "context": "a. TPA would appraise the State/UT about the health of the network through reports indicating the bandwidth utilization, scalability requirements as per the current and envisaged State level applications etc. b. Only the overall Recommendation for Expansion is covered under the purview of this contract. For detailed activities like designing, BoM, specifications etc. the State/UT is expected to engage the concerned Agency separately.",
+                    "qas": [
+                        {
+                            "question": "What is audit usage?",
+                            "id": "id_7_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "a. TPA would appraise the State/UT about the health of the network through reports indicating the bandwidth utilization, scalability requirements as per the current and envisaged State level applications etc. b. Only the overall Recommendation for Expansion is covered under the purview of this contract. For detailed activities like designing, BoM, specifications etc. the State/UT is expected to engage the concerned Agency separately."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "GUIDELINES FOR CENTRAL ASSISTANCE for COMMAND AREA DEVELOPMENT WORKS in PRIORITIZED AIBP FUNDED IRRIGATION PROJECTS",
+            "paragraphs": [
+                {
+                    "context": "A large number of irrigation projects taken up under the Accelerated Irrigation Benefit Program (AIBP) after its launch in 1996-97 were languishing due to inadequate provision of funds. During 2015-16, Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched with aims of enhancing physical access of water on farm and expanding cultivable area under assured irrigation, improving on- farm water use efficiency, introducing sustainable water conservation practices etc. Under this scheme, 99 ongoing AIBP funded irrigation projects \u2013 with total irrigation potential of 76 lakh hectare \u2013 have now been identified for prioritized implementation in a mission mode along with their Command Area Development (CAD) works. The list of 99 prioritized projects is given as Annexure-I. The Central Assistance (CA) for CAD works of these 99 projects will be funded through the ongoing Command Area Development & Water Management (CADWM) Program covered under the PMKSY Har Khet Ko Pani (HKKP) component.",
+                    "qas": [
+                        {
+                            "question": "What is PMKSY?",
+                            "id": "id_8_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 202,
+                                    "text": "Pradhan Mantri Krishi Sinchayee Yojana."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of HKKP",
+                            "id": "id_8_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 961,
+                                    "text": "Har Khet Ko Pani."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of CAD?",
+                            "id": "id_8_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 681,
+                                    "text": "Command Area Development."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "GUIDELINES FOR THE SCHEME REPAIR, RENOVATION AND RESTORATION(RRR) OF WATER BODIES UNDER",
+            "paragraphs": [
+                {
+                    "context": "In India, tanks, ponds and lakes have traditionally played an important role in conserving water for meeting various needs of the communities. As per 5th Minor Irrigation Census 2013-2014, there are 5.16 lakh tanks and storages in the country as minor irrigation sources, out of which 4.62 lakh tanks are in use, and the remaining 0.53 lakh tanks are not in use. Many of these water bodies have gone into disuse because of the development of ground water irrigation systems, inadequate maintenance, encroachments, less discharge of water, storage not filled up fully, siltation of storage, salinity, drying up, getting destroyed beyond repair etc. A pilot scheme for \u201cRepair, Renovation and Restoration (RRR) of Water Bodies directly linked to Agriculture\u201d was launched in January, 2005 for implementation during the remaining period of Xth Plan with an outlay of Rs. 300 crore. The scheme was sanctioned in respect of 1,098 water bodies in 26 districts of 15 States, with a target to create 0.78 lakh hectare of additional irrigation potential.",
+                    "qas": [
+                        {
+                            "question": "How many tanks and storages are present in the country as minor irrigation sources?",
+                            "id": "id_9_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 199,
+                                    "text": "5.16 lakh tanks and storages"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of RRR?",
+                            "id": "id_9_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 668,
+                                    "text": "Repair, Renovation and Restoration."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the pilot scheme for Repair, Renovation and Restoration (RRR) of water bodies directly linked to Agriculture launched ?",
+                            "id": "id_9_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 773,
+                                    "text": "January, 2005"
+                                }
+                            ]
+                        },
+                        {
+                            "question": "",
+                            "id": "id_9_0_4",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is PMKSY?",
+                            "id": "id_9_0_5",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "When was the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) Launched?",
+                            "id": "id_9_0_6",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is the full form of HKKP?",
+                            "id": "id_9_0_7",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                },
+                {
+                    "context": "Detailed project report (DPR) for the proposal of water bodies is to be approved by State Technical Advisory Committee (TAC) constituted by the State, with representation from Central Water Commission (CWC) and Central Ground Water Board (CGWB).  b. The proposal for RRR of water bodies should have the approval of State Level Sanctioning Committee (SLSC), and must also be included in the District Irrigation Plan (DIP). c. The proposed works should not be receiving financial assistance under any other scheme of Government of India, or through external assistance, except for the components being implemented through convergence with other schemes, requirements for which have been brought out at para j below. However, the State is free to seek State share from any scheme of the State.",
+                    "qas": [
+                        {
+                            "question": "Who does approve the Detailed Project Report (DPR) for the proposal of water bodies?",
+                            "id": "id_9_1_1",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "Whose approval should the proposal for RRR of water bodies have ?",
+                            "id": "id_9_1_2",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                },
+                {
+                    "context": "DPR is to be prepared at the water body level, and works would be implemented by Water Users Association (WUA) /panchayat /a Government agency identified by the District Level Implementing Agency (DLIA). Dispute, if any, related to implementation of water body could be referred to DLIA for resolution. The implementation plan of the project will be placed before the Gram Sabha and its cooperation will be solicited for timely completion of the project. Activity mapping in respect of the role of Panchayat in the implementation of the scheme is placed at Annexure-II.",
+                    "qas": [
+                        {
+                            "question": "Who will resolve the disputes related to implementation of the water body?",
+                            "id": "id_9_2_1",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Defination  GUIDELINES FOR SETTLEMENT OF CLAIMS FOR COMPENSATION FOR DEATH OR PERMANENT DISABILITY ARISING FROM ACCIDENTS FACED BY MEMBERS OF GENERAL PUBLIC AND CERTAIN CATEGORIES OF PERONS IN THE DEPARTMENT OF ECONOMIC AFFAIRS AND AUTONOMOUS ORGANISATIONS AND PUBLIC SECTOR UNDERTAKINGS UNDER ITS CONTROL",
+            "paragraphs": [
+                {
+                    "context": "(a) Accident: Any death or permanent disability resulting solely and directly from anyunintended and unforeseen injurious occurrence caused during the maintenance, operation and provisioning of any public services undertaken by the Department. (b) Competent Authority: Competent Authority means Secretary to Government of India in the Department of Economic Affairs or the Chairman/Head of the autonomous organisation or Chairman cum Managing Director or the public sector undertaking under the control of the Department of Economic Affairs. (c) Department: means Department of Economic Affairs and for the purposes of the present Guidelines includes, any autonomous organisations and public sector undertaking, under the administrative control of the Department of Economic Affairs. (d) Dependent: As defined in the Employee\u2019s Compensation Act, 1923. (e) Designated Officer: An Officer designated by the Competent Authority of the Grade of Junior Administrative Grade, (JAG) or equivalent for the purposes of receiving and processing claims for compensation under the present Guidelines. (f) Victim: Any person who suffers permanent disablement or dies in an accident as defined in these Guidelines. (g) Permanent Disablement: A disablement that is classified as a permanent total disablement under the proviso to Section 2 (I) of The Employee\u2019s Compensation Act, 1923. (h) Detailed Accident Report: The report prepared by the police within a period of 30 days from the date of incident as per Schedule of this guidelines. (i) Extent of Liability: On the occurrence of any accident as defined under these Guidelines, the Department shall, whether or not there has been any wrongful act, neglect or default on part and notwithstanding anything contained in any other law, be liable to pay compensation to such extent as prescribed below: (i) In the event of death or permanent disability resulting from loss of both limbs: Rs. 10,00,000/- (Rupees Ten Lakh). (ii) In the event of other permanent disability: Rs. 7,00,000/-(Rupees Seven Lakh).",
+                    "qas": []
+                },
+                {
+                    "context": "Question: Definitions of Accident ?\nAnswer: Accident: Any death or permanent disability resulting solely and directly from anyunintended and unforeseen injurious occurrence caused during the maintenance, operation and provisioning of any public services undertaken by the Department.",
+                    "qas": [
+                        {
+                            "question": "What is the Competent Authority?",
+                            "id": "id_10_1_1",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "what does Department means ?",
+                            "id": "id_10_1_2",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is dependent employee?",
+                            "id": "id_10_1_3",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "Who is designated officer?",
+                            "id": "id_10_1_4",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is victim?",
+                            "id": "id_10_1_5",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is permanent disablement?",
+                            "id": "id_10_1_6",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is the Detailed Accident Report (DAR)?",
+                            "id": "id_10_1_7",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is the Extent of Liability?",
+                            "id": "id_10_1_8",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Guidelines for Adoption of Electronic Payments and Receipts (EPR)",
+            "paragraphs": [
+                {
+                    "context": "Jan Dhan Yojana, the Aadhaar initiative of UIDAI and Mobile number (JAM), this Trinity of reforms is one of the biggest pieces of reform ever attempted in India for direct subsidy transfer to poor citizens of India. With financial inclusion as one of the key priorities of Government, using JAM, it is necessary for Government Departments to adopt modes of electronic payments & receipts for its internal and external transactions. There exist a large number of options for enabling various payment channels and electronic modes for payments/receipts. This framework is formulated with the aim of enabling 100 percent electronic payment for all the external or internal transactions of the Departments. The framework provides the guidelines for facilitating the Departments to expeditiously enable electronic payments and receipts leveraging all the payment channels.",
+                    "qas": [
+                        {
+                            "question": "What is the full form of JAM?",
+                            "id": "id_11_0_1",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Policy Statement",
+            "paragraphs": [
+                {
+                    "context": "Citizens to Government (C2G) and Business to Government (B2G) Payments Departments deliver various kinds of services to citizens and businesses and collect payments against delivered services through any one or more of the following modes: 5.1 Government to Citizens (G2C) Payments- As part of Government plan and non-plan schemes, Departments make payments to beneficiary of these schemes under various heads. Central government Departments primarily use PFMS for making such payments. Also, government hires external personnel to deliver services/support to the Departments and makes payment against such services to personnel. Government uses following modes for the payments to beneficiaries: \u2022 Cash \u2022 Paper Based ( Cheque ) \u2022 Direct Benefit Transfer to Citizen through NEFT/RTGS \u2022 Aadhaar Enabled Payments (AEPS). Central Government Departments use PFMS, eLekha and COMPACT for processing such payments and state Departments use government/own portals for making such payments. 5.2 Government to Businesses (G2B) Payments - Under defined expenditure heads, Government Departments either procure goods/products or sub-contract projects/services to external agencies/persons and make payments for such procurements and projects using any of the following modes: \u2022 Electronic based ( NEFT/RTGS) to businesses \u2022 Paper based ( Cheque) \u2022 Cash . In PFMS, the implementing agencies register as Program division and issue sanction orders, drawing and disbursement officer generates the bills and Pay and Accounts Officer (PAO), approves the bills  and makes the payments. State government Departments use individual systems for making such payments.5.3 Government to Employee (G2E) Payments- Central Departments make salary, GPF and pension payments to employees through electronic means primarily; Central Government officers use systems named as e-Lekha and COMPACT developed by Controller General of Account (CGA). State Departments are presently using self-developed or procured systems for making payments. Some payments like housing, loans, utility bills, petty contingent charges or remuneration of casual nature are paid using cheque or cash. 5.4 Government to Government (G2G) Payments - Central Government Departments use Public Finance and Management (PFMS) for making payments against plan and non-planned schemes. PFMS is mainly used for Central Sector and Central sponsored schemes and their interfaces with state treasury For making G2G payments, State Government Departments use developed or procured systems for making payments.",
+                    "qas": [
+                        {
+                            "question": "What is the full form of C2G?",
+                            "id": "id_12_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Citizens to Government."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of B2G?",
+                            "id": "id_12_0_2",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 33,
+                                    "text": "Business to Government."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of G2C?",
+                            "id": "id_12_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 244,
+                                    "text": "Government to Citizens."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of G2B?",
+                            "id": "id_12_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 987,
+                                    "text": "Government to Businesses."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of G2E?",
+                            "id": "id_12_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1649,
+                                    "text": "Government to Employee."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is the full form of G2G?",
+                            "id": "id_12_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 2151,
+                                    "text": "Government to Government."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What payment method Question : What is the payment method of Citizens to Government (C2G) and Business to Government (B2G) Payments ?",
+                            "id": "id_12_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": ""
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What payment method of Government to Citizens (G2C) Payments?",
+                            "id": "id_12_0_8",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "Central Government Departments use PFMS, eLekha and COMPACT for processing such payments and state Departments use government/own portals for making such payments of Government to Businesses (G2B) Payments?",
+                            "id": "id_12_0_9",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What payment method of Government to Employee (G2E) Payments?",
+                            "id": "id_12_0_10",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What payment method of Government to Government (G2G) Payments?",
+                            "id": "id_12_0_11",
+                            "is_impossible": true,
+                            "answers": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Details of National/International/Special Days (Weeks/fortnights) adopted or observed by Ministries/Departments of the Central Government Policy for declaration of National/International/Special Days",
+            "paragraphs": [
+                {
+                    "context": "1. Pravasi Bhartiya Divas is observed on 9th January every year under the M/Overseas Indian Affairs. 2. India celebrates National Youth Day is on 12th January every year under the M/Youth Affairs & Sports. 3. The National Sports Day in India is celebrated on August 29 every year under the M/Youth Affairs & Sports. 4. National Tourism Day is celebrated on January 25 every year across the country under the M/Tourism. 5. World Tourism Day celebrated on 27th September under the M/Tourism. 6. International Customs Day is observed on 26th January every year under the M/Finance.Jan Dhan Yojana, the Aadhaar initiative of UIDAI and Mobile number (JAM). 7. Central Excise Day is observed on 24th February every year under the M/Finance. 8. Anti Leprosy Day is observed on 30th January every year under the D/Health & FW. 9. World TB Day is observed on 24th March every year under the D/Health & FW. 10. World Population Day is observed on 11th July every year under the D/Health & FW. 11. National Fortnight on Eye Donation is observed every year on 25th September-8th October under the D/Health & FW. 12. World Sight Day is observed on 2nd  of October Thursday every year under the D/Health & FW. 13. National Cancer Awareness Day is observed every year on 7th November under the D/Health & FW.14.International Wetland Day is observed on 2nd February every year under the M/Environment & Forests. 15. World Forestry Day is observed on 21st March under the M/Environment & Forests. 16. Wildlife Week is observed on 1st Week of October every year under the M/Environment &Forests. 17. World Environment Day is observed on 5th June every year under the M/Environment & Forests. 18. World Day to Combat Desertification and Drought is observed on 17th June every year under the M/Environment & Forests 19. International Day for Preservation of Ozone Layer is observed on 16th September every year under the M/Environment &Forests. 20. National Science Day observed on 28th February every year under the M/Science & Technology. 21. Technology Day is observed on 11th May every year under the M/Science & Technology. 22.International Women\u2019s Day is observed on 8th March every year under the D/Women & Child Development. 23. National Nutrition November Week is observed from \t1st -7th annually under the D/Women & Child Development. 24. Children\u2019s Day is observed on 14th November every year under the D/Women & Child Development. 25.World Water Day is observed on 22nd March every year under the M/Water Resources. 26. Water Resources Day is observed In the month of April/May annually under the M/Water Resources. 27.World Theatre Day is observed on 27th March every year under the M/Culture. 28. World Dance Day is observed on 29th April annually under the M/Culture. 29. Museum Day is observed on 18th May every year under the M/Culture. 30. World Puppetry Day is observed on 21st March every yaer under the M/Culture. 31. World Heritage Day is observed on 18th April every year under the M/ Culture. 32. National Maritime Day is observed on 5th April every year under the M/Shipping. 33. Sant Ravidas Jayanti is celebrated on 24th February every year under the M/SJ&E. 34. Ambedkar Jayanti is celebrated on 14th April every year under the M/Social Justice and Empowernment. 35. UN International Day against Drug Abuse and Illicit Trafficking is observed on 26th  June every year under the M/SJ&E. 36. UN International Day on Older Persons is observed on 1st October every year under the M/SJ&E. 37. UN International Day for Disabled Persons is observed on 3rd December every year under the M/SJ&E. 38. Nirvan Diwas of Shri B.R.Ambedkar is observed on 6th December every year under the M/SJ&E. 39. Co-operative Day observed from 1st Saturday of july every year under the D/Agr. & Cooperation. 40. World Food Day is observed on 16th  October every year under the D/Agr. Co- Operation. 41. World Coconut Day is observed on 2nd September every year under the D/Agr. & Cooperation. 42. Rajiv Gandhi Akshay Urja Diwas is obeserved on 20th August annually under the M/Non-Conventional Energy Resources. 43. Sadbhavana Diwas is observed on 20th August every year under the M/ Home Affairs. 44. Hindi Day is celebrated on 14th September every year under the M/ Home Affairs D/o Official. 45. SSI Day is observed on 30th August under the D/Small ScaleIndustries. 46. Teachers Day is celebrated on 5th September under the (M/o HRD)[Department of Secondary and Higher Education]. 47. International Literacy Day is observed on 8th September under the (Department of School Education and Literacy, M/o HRD). 48. National Education Day is observed on 11th November every year under the Department of Higher Education, M/o HRD. 49. World Space Week is observed from 4-10 October every year under the D/Space. 50. World Post Day is observed on 9th  October every year under the Deptt. of Post. 51. World Standards Day is observed on 14th October under the Bureau of IndianStatistics. 52. Statistical Day is observed on 29th June every year under the Ministry of statistics and Programme Implementation. 53. Armed Forces Flag Day is observed on 7th December every year under the M/Defence. 54. National Energy Conservation Day is observed on 14th  December every year under the Ministry of Power. 55. National Consumer Day is observed on 24th December under the Deptt. of Consumer Affairs. 56. World Consumer Rights Day is observed on 15th  March every day under the Deptt of Consumer Affairs. 57. World Habitat Day is observed every First Monday of October under the Ministry of Urban Employment and Poverty Alleviation. 58. World Communication Day is observed on 7th May every year under the D/Telecommunications. 59. World AIDS day is observed on 1st December every year under the M/o Health & Family Welfare. 60. National Voluntary Blood Donation Dayis observed on 1st October every year under the M/o Health & Family Welfare. 61. Earth Day is observed on 22nd April every day under the M/o Env. & Forest. 62. International Day for Biological Diversity is observed on 22nd May every year under the M/o Env.& Forest. 63. National Voters\u2019Day is observed on 25th Jan every year under the M/o Law & Justice-Legislative Department. 64. National Mathematics Dayis observed on 22nd December every year under the D/o Atomic Energy. 65. Rashtriya Sankalp Diwas is observed on 31st October every year under the M/o Home Affairs/HR Division. 66. Quami Ekta Week is observed from 19-25 November every year under the M/o Home Affairs/ HR Division. 67. National Press Day is observed on 16th November every year under the M/o Information &Broadcasting. 68. Anti Terrorism Day is observed on 21st May every year under the (M/o Home Affairs/ HR Division.",
+                    "qas": [
+                        {
+                            "question": "On which day Pravasi Divas celebrated?",
+                            "id": "id_13_0_1",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 41,
+                                    "text": "9th January."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "What is National Youth Day celebrated?",
+                            "id": "id_13_0_2",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "What is date of National Sports Day?",
+                            "id": "id_13_0_3",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 209,
+                                    "text": "The National Sports Day in India is celebrated on August 29."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "On which date Indian people celebrate National Tourism Day?",
+                            "id": "id_13_0_4",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 319,
+                                    "text": "National Tourism Day is celebrated on January 25 every year across the country."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "world tourism day celebrated on ?",
+                            "id": "id_13_0_5",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 454,
+                                    "text": "27th September."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "international customs day celebration?",
+                            "id": "id_13_0_6",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 534,
+                                    "text": "26th January ."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "central excise day is celebrated?",
+                            "id": "id_13_0_7",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 689,
+                                    "text": "24th February."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When Is Anti Leprosy Day in India?",
+                            "id": "id_13_0_8",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 770,
+                                    "text": "30th January."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Which day is World Anti tuberculosis Day?",
+                            "id": "id_13_0_9",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 850,
+                                    "text": "24th March."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "World Population Day celebrated on?",
+                            "id": "id_13_0_10",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 937,
+                                    "text": "11th July."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "National Fortnight on Eye Donation?",
+                            "id": "id_13_0_11",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1048,
+                                    "text": "25th September-8th October."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "World Sight Day?",
+                            "id": "id_13_0_12",
+                            "is_impossible": true,
+                            "answers": []
+                        },
+                        {
+                            "question": "When is the National cancer awareness day?",
+                            "id": "id_13_0_13",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1256,
+                                    "text": "7th November."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "world forestry day celebrated on?",
+                            "id": "id_13_0_14",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1434,
+                                    "text": "21st March."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Which Week is known as wildlife Week?",
+                            "id": "id_13_0_15",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1513,
+                                    "text": "1st Week of October."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Which day celebrate Environment Day",
+                            "id": "id_13_0_16",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1619,
+                                    "text": "5th June."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "World Day to Combat Desertification and Drought?",
+                            "id": "id_13_0_17",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1741,
+                                    "text": "17th June."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Which International Day for the Preservation of the Ozone Layer celebrated?",
+                            "id": "id_13_0_18",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1865,
+                                    "text": "16th September."
+                                }
+                            ]
+                        },
+                        {
+                            "question": "National Science Day celebrated ?",
+                            "id": "id_13_0_19",
+                            "is_impossible": false,
+                            "answers": [
+                                {
+                                    "answer_start": 1962,
+                                    "text": "28th February."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
